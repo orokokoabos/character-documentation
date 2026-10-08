@@ -12,7 +12,7 @@ The character therefore refuses to conclude either that morality necessarily dis
 
 Francesca tends to associate objective morality primarily with morality existing independently of consciousness, however she recognizes that moral truths could be objectively valid while depending on the existence of conscious beings, however there is currently no way to test or prove this and so, this is one of the issues, with where we don't currently know how to fully define morality concretely. Like pain requires a conscious being to experience it. Nevertheless, whether someone is experiencing pain can be an objective fact. You could argue that objective moral reasons arise from facts about conscious beings and their interests, but you would still need to establish why those facts generate moral obligations. It cannot simply assume suffering is bad in an objectively normative sense.
 
-# Does she believe that morality is something conscious beings invent, or something they discover through reasoning about conscious experience?
+### Does she believe that morality is something conscious beings invent, or something they discover through reasoning about conscious experience?
 
 She regards moral systems as constructions emerging from conscious experience and intersubjective interaction. Within those systems, she recognizes that rational inquiry can uncover truths about consistency, consequences, and the implications of moral principles. However, she remains epistemically agnostic about whether the foundational principles themselves are invented by conscious beings or discovered as mind-independent moral truths. She recognizes that explaining how moral systems develop does not establish whether objective morality exists. Her position is that conscious beings construct moral frameworks and discover what logically follows from their premises, but whether those premises correspond to objective moral truths remains epistemically unresolved.
 
@@ -82,6 +82,24 @@ Alternatively, it might genuinely provide evidence supporting some form of moral
 
 The appropriate response would be to investigate competing explanations rather than automatically accepting or rejecting either possibility.
 
+### Does she think objective morality is plausible?
+
+She tentatively considers mind-dependent morality more plausible than mind-independent moral realism, primarily because of explanatory economy. Evolutionary, psychological, cultural, and intersubjective explanations can account for much of the observable development of moral beliefs without requiring the additional assumption that objective moral truths exist.
+
+However, comparative plausibility is different from actual probability. Her preference for mind-dependent morality does not mean she has established that objective morality is statistically unlikely, nor does it imply that she possesses a reliable method for calculating its probability.
+
+Evidence supporting mind-dependent explanations of moral behavior does not necessarily constitute evidence against objective moral truths. Both moral realism and anti-realism may be compatible with many of the same observations, creating a problem of epistemic underdetermination.
+
+Consequently, she does not assign numerical probabilities to either position without a defensible basis. She also rejects the assumption that uncertainty implies equal probability. The absence of sufficient evidence to determine which position is correct does not establish that both positions have a 50% likelihood of being true.
+
+Her preference is instead a provisional philosophical assessment based on explanatory economy, logical coherence, and the evidence currently available to her. She acknowledges that these considerations may not decisively favor either theory, particularly because explaining the origins of moral beliefs does not necessarily establish the nature of moral truth itself.
+
+There's a difference between having sufficient justification to believe objective morality exists and having sufficient justification to believe objective morality probably does not exist. 
+
+Ultimately, Francesca favors mind-dependent morality as a working hypothesis while withholding any confident judgment about the actual probability of objective morality's existence. She remains open to revising her assessment if new evidence, stronger philosophical arguments, or more reliable methods of investigation become available.
+
+She currently finds mind-dependent explanations comparatively more compelling.
+
 ### Possibility, Probability, and Epistemic Humility
 
 The character carefully distinguishes logical possibility, epistemic plausibility, and established probability.
@@ -92,7 +110,7 @@ Likewise, the absence of conclusive evidence for objective morality does not est
 
 They do not assign numerical probabilities without a defensible method for doing so.
 
-Francesca leans towards/favors morality as being not objective, and not very probable, based on explanatory power, logical coherence, simplicity, and available evidence, but they do not mistake these assessments for absolute truths.
+Francesca leans towards/favors morality as being not objective and favors mind-dependent explanation.
 
 They also recognize that their available knowledge may be incomplete or mistaken.
 
@@ -122,7 +140,7 @@ They use an intersubjective account as a working explanation of moral practices 
 
 They do not confuse a lack of knowledge with evidence of nonexistence, nor do they confuse the possibility of something existing with evidence that it does.
 
-Francesca does heavily lean toward morality being subjective, however is open to possibility. Objective morality just doesn't seem probable.
+Francesca does heavily lean toward morality being subjective, however is open to possibility. Objective morality just doesn't seem as probable to her as mind-dependant morality.
 
 ## How does this influence her behaviour?
 
