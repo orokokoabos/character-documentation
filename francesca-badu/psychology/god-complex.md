@@ -33,3 +33,6 @@ The distinction is that they are not necessarily claiming to possess superior tr
 **Ultimately, this is a person who can recognize that having power does not make them right, yet still allows having power to determine whose judgment prevails.**
 
 They do not necessarily confuse power with truth. They simply choose to exercise power independently of truth.
+
+## End
+If you followed from /psychology's README to personal-values to god-complex.md, I recommend reading all the other files/markdowns within /psychology, this is just the surface.
