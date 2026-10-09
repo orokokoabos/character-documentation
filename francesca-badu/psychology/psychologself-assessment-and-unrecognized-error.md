@@ -295,3 +295,73 @@ Her concern with factual accuracy is distinct from her moral motivations.
 Her desire to avoid unjustified confidence does not fundamentally change her indifference toward the suffering of others.
 
 Ultimately, she prefers an uncomfortable but adequately supported understanding of reality over a comforting belief in her own superiority that may turn out to be false.
+
+## Selective Attention, Computational Capacity, and Interpretation
+
+### Extraordinary Intelligence Does Not Mean Constant Calculation
+
+Francesca possesses computational capabilities enormously beyond those of ordinary humans.
+
+Her intelligence allows her to construct extraordinarily detailed physical models of her surroundings, potentially extending to individual atoms and their interactions.
+
+Her predictive calculations can achieve exceptional accuracy, although they are not universally infallible.
+
+These capabilities are produced by her own brain. They are not magical abilities, and Francesca cannot use magic.
+
+However, possessing extraordinary computational capacity does not mean she continuously calculates everything around her.
+
+Her attention and computational resources are directed according to her interests, circumstances, priorities, and established habits.
+
+### Habitual Appearance Monitoring
+
+One of Francesca's recurring mental activities is monitoring her physical appearance.
+
+She maintains a detailed three-dimensional representation of how she looks and can calculate how environmental conditions affect her appearance.
+
+For example, she frequently calculates how wind interacts with her hair, whether it changes her appearance, and whether an adjustment is necessary.
+
+Because she performs this analysis so regularly, aspects of the process have become habitual and require relatively little deliberate attention.
+
+This does not mean she is continuously applying the same level of analysis to everything else around her.
+
+### Attention in Public and Private
+
+In public environments, Francesca may devote extraordinary processing resources to examining her surroundings.
+
+She can analyze who is looking at her, how people are reacting to her presence, and how environmental factors influence her appearance.
+
+She may also monitor potential threats.
+
+When she is alone and has no particular reason to analyze her environment, she may perform far fewer calculations.
+
+For example, encountering an ordinary animal during a quiet walk does not necessarily motivate her to construct an exhaustive physical analysis of it.
+
+She may simply recognize its presence and continue walking.
+
+Her computational capabilities are therefore not equivalent to automatic, continuous omniscience.
+
+### Calculation Does Not Guarantee Understanding
+
+Francesca can accurately calculate a physical process without necessarily understanding the meaning or significance of that process.
+
+For example, she may calculate detailed patterns of activity in another person's brain.
+
+However, calculating those patterns does not automatically reveal what the person believes, intends, or experiences.
+
+Interpreting physical information requires an understanding of the relationships between observable patterns and the phenomena they represent.
+
+This is particularly important because the scientific knowledge available within Francesca's world is limited. Her society has not developed an established scientific understanding of neurons or neurological signaling.
+
+Francesca can independently recognize and learn associations between physical patterns and observable behavior, but her extraordinary computational power does not automatically supply every missing piece of scientific knowledge.
+
+Consequently, she may identify certain lies or predict particular behaviors with extraordinary accuracy while remaining unable to interpret other unfamiliar patterns.
+
+Her ability to calculate information, her ability to interpret it, and her decision to devote attention to it are separate characteristics.
+
+### Instrumental Learning
+
+Francesca does not ordinarily pursue knowledge merely for the pleasure of learning.
+
+However, when obtaining knowledge serves something she personally desires, she can learn extraordinarily quickly and apply that knowledge with exceptional precision.
+
+Her intelligence therefore coexists with relatively little intrinsic interest in academic or philosophical exploration.
