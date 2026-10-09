@@ -222,6 +222,26 @@ Their deaths are a means of resolving that problem.
 
 The incident demonstrates that Francesca's treatment of other people depends on their relationship to her personal priorities, not on the severity of their suffering.
 
+## Why Francesca Initially Overlooks the Children
+
+Francesca's initial decision to walk past the imprisoned children is not the result of being physically unable to perceive them or intellectually incapable of recognizing their situation.
+
+She sees the children and recognizes their presence.
+
+However, their existence does not immediately activate any motivation she considers important.
+
+Francesca is primarily interested in demonstrating her extraordinary power and cultivating recognition for her attractiveness and accomplishments.
+
+She also regards the children as too young to appreciate her physical beauty in the particular way she values. Consequently, they are not an audience whose perception of her appearance she is especially interested in cultivating.
+
+Having already defeated the trafficking organization, she is primarily concerned with the accomplishment itself and any remaining threats.
+
+The possibility of rescuing the children to strengthen her heroic reputation does not occur to her at that moment.
+
+Later, when she recognizes that they could reveal her earlier abandonment and damage her reputation, their continued existence becomes relevant to something she values.
+
+Her subsequent decision to kill them is motivated by that reputational concern, not by a sudden development of cruelty or a desire to cause suffering.
+
 ## Intellectual Understanding Versus Emotional Motivation
 
 Francesca is fully capable of understanding ethical objections to her actions.
