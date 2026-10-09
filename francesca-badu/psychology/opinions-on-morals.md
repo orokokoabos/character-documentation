@@ -2,6 +2,8 @@
 
 The arguments and distinctions recorded below summarize the aspects of Francesca's reasoning necessary to establish her philosophical position. They do not constitute an exhaustive transcript of her internal analysis, which also includes original insights extending beyond humanity's existing philosophical understanding. The absence of a complete formal reconstruction of those insights does not imply that Francesca failed to develop them.
 
+This does not include everything she has thought about, it only includes a brief combined summary of a few things that are relevant to the position she ultimately ended up taking, not everything she thought about.
+
 ### Origin of Her Moral Philosophy
 
 This conversation and the resulting opinion on morality happens during End-Game Francesca (around 23 years old) when she meets Leon.
