@@ -3,6 +3,8 @@
 
 ### Origin of Her Moral Philosophy
 
+This conversation and the resulting opinion on morality happens during End-Game Francesca (around 23 years old) when she meets Leon.
+
 Before her conversation with Leon, Francesca had never seriously contemplated the philosophical foundations of morality. She had no interest in the subject and possessed little meaningful knowledge of established philosophical theories.
 
 She had occasionally encountered terms such as *moral realism* and *moral anti-realism* in conversation, but had never cared enough to investigate their meanings. Her familiarity with such terminology was superficial and did not constitute an understanding of the theories themselves.
