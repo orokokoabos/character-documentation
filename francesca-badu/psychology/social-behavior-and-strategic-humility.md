@@ -235,6 +235,44 @@ Consequently, openly boasting may undermine the image she wants, even when it co
 
 Francesca's apparent humility and intense self-centered desires can therefore coexist without contradiction.
 
+## Concealed Effort and Social Awareness
+
+### Concealing the Effort Behind Her Appearance
+
+Francesca does not merely want to appear extraordinarily attractive. She also prefers that maintaining her attractiveness appear effortless.
+
+For example, she generally exercises privately, often inside her own room.
+
+She does not want observers to see how much effort she may devote to maintaining her appearance, because that could undermine the impression of effortless beauty she wishes to cultivate.
+
+This is consistent with her strategic humility: she prefers people to recognize extraordinary qualities without necessarily observing the work involved in maintaining them.
+
+### Social Intelligence Does Not Require Constant Social Interaction
+
+Despite possessing extraordinary social intelligence, Francesca does not necessarily enjoy initiating conversations or frequently socializing.
+
+She may spend substantial periods alone and generally does not feel compelled to approach other people simply to receive attention.
+
+However, when she does participate in social interactions, she can use her extensive understanding of human psychology to manage how she is perceived.
+
+Some of this behavior is deliberate and carefully planned. Other aspects have become habitual through repetition.
+
+When she wants to produce a particularly specific impression or outcome, her social strategies are more likely to involve conscious planning.
+
+### Recognizing Emotional Manipulation
+
+Francesca is exceptionally skilled at recognizing attempts to manipulate her emotions.
+
+She understands human behavior, social strategies, and psychological motivations at an extraordinary level.
+
+Her physical computational capabilities can supplement this understanding when she possesses enough information to interpret the patterns she observes.
+
+If someone deliberately insults or provokes her in an attempt to control her behavior, she can recognize the intended manipulation and refuse to respond as the person expects.
+
+She may still experience the emotion being provoked, but experiencing an emotion does not require her to act on it.
+
+This resistance to manipulation should not be confused with perfect lie detection or an inability to be deceived. Recognizing another person's intentions still depends on interpreting available information accurately.
+
 ## 10. Central Psychological Distinction
 
 Francesca's internal motivations and external social behavior should not be treated as interchangeable.
