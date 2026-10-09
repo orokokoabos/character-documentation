@@ -199,3 +199,37 @@ As Pheme, she wants to be recognized as an extraordinarily powerful, beautiful, 
 She changes sides without necessarily changing the underlying psychological reasons she wants to be extraordinary.
 
 **Her commitment is primarily to cultivating the identity and reputation she desires, rather than to the moral principles conventionally associated with that identity.**
+
+## Power, Recognition, and Her Understanding of Heroism
+
+Francesca's desire to appear heroic is primarily connected to demonstrating extraordinary power, rather than maximizing the number of people she helps.
+
+During her Grand Navy career, she is especially interested in being recognized as someone capable of defeating exceptionally powerful criminals.
+
+Defeating a dangerous criminal organization single-handedly directly demonstrates the qualities she wants associated with her identity: extraordinary strength, competence, and near-invincibility.
+
+Although rescuing civilians, providing community assistance, and performing other benevolent actions can also strengthen a heroic reputation, they do not necessarily attract her attention to the same degree.
+
+Her understanding of desirable heroic accomplishments is therefore selective.
+
+She is particularly interested in accomplishments that demonstrate how powerful she is.
+
+### Continuity After Becoming Pheme
+
+When Francesca becomes Pheme, this motivation does not fundamentally change.
+
+Rather than defeating powerful criminals to establish herself as an extraordinary Navy Captain, she now wants to defeat powerful authorities and other formidable opponents to establish herself as an extraordinary criminal.
+
+Her desired accomplishments change with her chosen identity, but the underlying attraction to recognition for overwhelming power remains.
+
+She wants people to genuinely regard her as extraordinarily powerful, not necessarily to approach her and explicitly praise her strength.
+
+### Recognition Is Not the Same as Reassurance
+
+Francesca does not require constant compliments or public acknowledgment to remain confident in her abilities or attractiveness.
+
+She wants people to privately recognize the qualities she values.
+
+She may prefer someone who silently and genuinely acknowledges her exceptional abilities over someone who praises her insincerely.
+
+Likewise, she can be satisfied knowing that people recognize her power without needing to advertise her accomplishments herself.
