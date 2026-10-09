@@ -1,5 +1,6 @@
 # Francesca's Opinion on Morality
 
+The arguments and distinctions recorded below summarize the aspects of Francesca's reasoning necessary to establish her philosophical position. They do not constitute an exhaustive transcript of her internal analysis, which also includes original insights extending beyond humanity's existing philosophical understanding. The absence of a complete formal reconstruction of those insights does not imply that Francesca failed to develop them.
 
 ### Origin of Her Moral Philosophy
 
