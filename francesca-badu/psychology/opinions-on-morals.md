@@ -2,7 +2,9 @@
 
 The arguments and distinctions recorded below summarize the aspects of Francesca's reasoning necessary to establish her philosophical position. They do not constitute an exhaustive transcript of her internal analysis, which also includes original insights extending beyond humanity's existing philosophical understanding. The absence of a complete formal reconstruction of those insights does not imply that Francesca failed to develop them.
 
-This does not include everything she has thought about, it only includes a brief combined summary of a few things that are relevant to the position she ultimately ended up taking, not everything she thought about.
+The philosophical analysis documented here is a highly compressed representation of Francesca's internal reasoning. It does not attempt to reproduce every inference, calculation, hypothetical scenario, conceptual distinction, or original insight she develops.
+
+Her cognitive processing operates at a scale far beyond contemporary human computational capabilities. Consequently, this document summarizes the reasoning necessary to characterize her philosophical position rather than providing an exhaustive reconstruction of her thought processes.
 
 ### Origin of Her Moral Philosophy
 
