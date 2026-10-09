@@ -1,5 +1,11 @@
 # Francesca Badu / Pheme
 
+This repository is a reference and development resource for a fictional universe, its characters, and their associated concepts.
+
+The documentation in this repository is not intended to function as a literary work, novel, screenplay, or narrative presentation. Its purpose is to directly describe and establish the fictional setting, the characters who inhabit it, their capabilities, limitations, personalities, motivations, beliefs, behaviors, and the reasoning behind their creation.
+
+The documents should be interpreted primarily as technical and conceptual character references rather than as prose intended for publication or direct inclusion in a story.
+
 Badu belongs to a series, this repo is for documenting characters for analysis. 
 We will (probably) specify what Francesca we are talking about, there is a few:
 - Pre Teenage Francesca
