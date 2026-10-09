@@ -120,6 +120,8 @@ For example, consider two hypothetical situations.
 
 ### Hypothetical A: A Pleasant Day
 
+**The following is hypothetical and has not happened in the story**
+
 Francesca is offered a button.
 
 If she presses it, billions of people will experience eternal, unimaginable suffering, but she will have a particularly pleasant day tomorrow.
