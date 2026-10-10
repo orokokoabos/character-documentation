@@ -365,3 +365,36 @@ Francesca does not ordinarily pursue knowledge merely for the pleasure of learni
 However, when obtaining knowledge serves something she personally desires, she can learn extraordinarily quickly and apply that knowledge with exceptional precision.
 
 Her intelligence therefore coexists with relatively little intrinsic interest in academic or philosophical exploration.
+
+### Extraordinary Intelligence, Goal Selection, and Missed Opportunities
+
+Francesca's extraordinary computational abilities do not mean that she continuously performs a complete optimization of every possible decision according to every desire she possesses.
+
+There is a distinction between:
+
+- Having the intellectual capacity to identify and evaluate a possible action.
+- Directing attention toward that action in the first place.
+- Recognizing that the action serves a personally important goal.
+- Actually choosing to perform the action.
+
+Francesca can possess more than enough computational capacity to analyze a problem while never initiating that particular analysis.
+
+For example, when defeating dangerous criminals, her immediate attention may be concentrated on demonstrating her overwhelming combat capabilities.
+
+She may overlook an additional opportunity to improve her reputation through rescuing victims because she is not intrinsically concerned with their suffering and is not actively considering that particular opportunity.
+
+If someone subsequently asks whether rescuing those victims would have improved her reputation, she may immediately recognize that it would have.
+
+Her earlier omission does not mean she was incapable of reaching that conclusion.
+
+Likewise, her capacity to identify a logically available alternative does not mean she must choose that alternative. Emotional priorities, personal desires, and her tolerance for particular risks influence which outcomes she chooses to pursue.
+
+Francesca may recognize that a particular reputational threat is unlikely while still strongly preferring to eliminate it, provided she considers the available means acceptable according to her priorities.
+
+This is not necessarily a mistaken estimate of probability. A person can accurately recognize that a negative outcome is improbable while assigning extraordinary personal importance to avoiding it.
+
+However, this does not make all of Francesca's choices optimal, infallible, or immune to error.
+
+She remains capable of directing her attention toward the wrong objective, overlooking relevant information, applying an existing principle inconsistently, and making choices affected by her emotional priorities.
+
+Her extraordinary intelligence describes her capabilities, not an automatic guarantee that every action she performs is the best conceivable action under every possible standard.
