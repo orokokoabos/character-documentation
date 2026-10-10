@@ -302,22 +302,6 @@ She recognizes that mathematical validity does not necessarily establish the tru
 
 She therefore distinguishes computational capability from epistemic justification. Her extraordinary intelligence allows her to reason with exceptional precision, but it does not automatically guarantee access to truths that cannot be established from the available information and premises.
 
-### Moral Understanding and Motivational Indifference
-
-Francesca's intellectual understanding of morality is distinct from her emotional priorities and practical motivations.
-
-She can recognize the validity of moral arguments, understand the consequences of suffering, and evaluate competing ethical frameworks without experiencing corresponding concern for the welfare of others.
-
-The suffering of conscious beings carries essentially no intrinsic emotional weight for her. She may employ suffering as a premise in moral arguments or condemn cruelty according to socially accepted ethical principles without being personally motivated by compassion.
-
-Her actual priorities center overwhelmingly on physical attractiveness, vanity, admiration, and public image. These desires can take precedence over moral considerations even when she recognizes compelling arguments against her actions.
-
-She does not necessarily believe that her personal preferences are morally correct. She distinguishes what she wants from what can be justified philosophically and from what might be objectively morally true.
-
-Her ability to understand moral obligations therefore does not imply a willingness to fulfill them.
-
-Her public conformity to moral expectations and her private philosophical reasoning should not be confused with altruistic motivation. The detailed expression of these characteristics is addressed separately in her personality and behavior profiles.
-
 ## How Does This Influence Her Behaviour?
 
 Francesca's intellectual understanding of morality does not necessarily reflect her personal motivations.
