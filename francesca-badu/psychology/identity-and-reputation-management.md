@@ -244,16 +244,6 @@ Her indifference toward suffering means that encountering victims does not autom
 
 This selective understanding of heroism does not mean Francesca never rescues people. She can and may do so when rescuing them serves a goal that captures her attention, including cultivating her desired reputation.
 
-### Continuity After Becoming Pheme
-
-When Francesca becomes Pheme, this motivation does not fundamentally change.
-
-Rather than defeating powerful criminals to establish herself as an extraordinary Navy Captain, she now wants to defeat powerful authorities and other formidable opponents to establish herself as an extraordinary criminal.
-
-Her desired accomplishments change with her chosen identity, but the underlying attraction to recognition for overwhelming power remains.
-
-She wants people to genuinely regard her as extraordinarily powerful, not necessarily to approach her and explicitly praise her strength.
-
 ### Recognition Is Not the Same as Reassurance
 
 Francesca does not require constant compliments or public acknowledgment to remain confident in her abilities or attractiveness.
