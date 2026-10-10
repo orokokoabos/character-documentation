@@ -200,25 +200,6 @@ The appearance of hatred, an active desire to inflict suffering, or an obsession
 
 There is also no implication that her acts are involuntary. She may feel cornered and unable to restore her beauty, but the terrible things she chooses to do to other people remain choices. An impossible personal goal does not make harming innocent people necessary or justified.
 
-## 11. Why this does not contradict her ordinary behavior
-
-A person can lack an active desire to torture others in ordinary life and nevertheless develop such a desire when they see torture as a way to satisfy an intense existing motive. Francesca's indifference to suffering never guaranteed that she would always be passive about it. It only meant that suffering, in itself, did not normally attract or repel her.
-
-In the divine-coercion hypothetical, suffering first becomes useful to revenge. After the supposed revenge loses its purpose, killing survivors can become useful to preventing an unwanted reputation. In both cases, the outcomes depend on **what Francesca wants**, not on any change in the intrinsic value she assigns to other people's lives.
-
-The scenario should not be described as a transformation into a 'new, evil Francesca.' Nor should it be cited as evidence that she secretly wants genocide in ordinary circumstances. The same person can produce drastically different behavior when the available choices, emotional stakes, and practical incentives are drastically different.
-
-## 13. Canonical-status and interpretation notes
-
-1. **Not canon:** God does not appear, impose this choice, alter Francesca's body, or provoke this sequence in the story. The scenario is not foreshadowing or a planned plot arc.
-2. **Same character:** All reactions are intended to follow from the already-established Francesca. This is not an alternative personality and does not overwrite her documented psychology.
-3. **Conditional rather than inevitable in unrelated situations:** The specified outcomes depend on all the unusually restrictive premises being present; they should not be generalized to situations in which she can restore her beauty, conceal herself, negotiate, or pursue other preferred outcomes.
-4. **God as a hypothetical device:** The use of the Christian God does not imply that Christianity exists in the series or that the depicted demand corresponds to Christian doctrine. The certainty of divine identity, the closing of loopholes, and the nonintervention during retaliation are stipulated for analytical purposes.
-5. **No automatic certainty about God's feelings:** Her original belief that harming God's children might hurt God is a hypothesis she knowingly tests, not a conclusion she thinks has been proved.
-6. **Two possible responses to conclusive failure:** Before the campaign, she abandons it and ultimately chooses death under the scenario's conditions. After extensive atrocities, she may continue toward human extinction to eliminate surviving witnesses to her unwanted identity. These branches must not be conflated.
-7. **No implied sadism:** Deliberately maximizing suffering can be instrumental to revenge without involving pleasure in the victims' suffering for its own sake.
-8. **No moral excuse:** Explaining how her reasoning produces atrocities does not justify them or reduce the victims to mere details of her inner conflict.
-
 ## Additional Hypothetical: Prolonged Human Suffering as a Means of Retaliation Against God
 
 ### Initial Uncertainty: Testing Whether Human Suffering Affects God
