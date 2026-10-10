@@ -304,4 +304,6 @@ The precise duration and eventual outcome would depend on the circumstances, her
 
 The responses described in this document are established by the authors as Francesca's responses under the particular hypothetical conditions specified.
 
+(We are telling you this is what she will do)
+
 They are not speculative psychological predictions about a real human being with superficially similar characteristics.
