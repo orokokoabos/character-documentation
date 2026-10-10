@@ -100,6 +100,22 @@ She distinguishes between a rule being legally established and that rule possess
 
 Hypothetical: If the law magically changed the next day to allow a horrific crime, and everybody is morally against it and finds it horrific, if somebody does this crime, everybody else can condemn them and call them a monster, however Francesca will not, because it doesn't matter to her if this was morally wrong or not, it matters "was it against the law" because that is how she will judge whether or not they should be punishedd, and it wasn't, therefore he's okay.
 
+### Legal Permissibility Does Not Necessarily Constitute Moral Approval
+
+When Francesca regards an action as legally permissible, this does not necessarily mean she believes the action is morally good, objectively justified, personally admirable, or deserving of praise.
+
+Her preference for using the established legal system to determine legal punishment concerns the standards by which punishment is authorized.
+
+For example, if a particular action is not prohibited under the applicable law, Francesca would not ordinarily regard the intensity of the public's moral outrage as sufficient grounds to impose a legal punishment that the law does not authorize.
+
+This position does not require her to believe that the action is morally justified.
+
+Likewise, she may personally dislike an action for reasons unrelated to its legality, such as its conflict with her aesthetic hierarchy or her irritation toward someone exhibiting unjustified superiority.
+
+Such personal reactions do not automatically determine her assessment of what punishment is legally authorized.
+
+Her personal preferences, her understanding of the legal framework, her capacity to analyze moral arguments, and her willingness to obey the law are distinct matters.
+
 ---
 
 ## CTA
