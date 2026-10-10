@@ -299,3 +299,9 @@ Her objective is to cause as much distress to God as she can within the opportun
 She may eventually kill her captives, particularly when she no longer intends or expects to continue maintaining their suffering. However, so long as continued suffering remains more useful to her than their deaths, she has an instrumental reason to prolong their lives.
 
 The precise duration and eventual outcome would depend on the circumstances, her capabilities, and what she establishes about God's responses.
+
+### Authorial Status of Francesca's Hypothetical Responses
+
+The responses described in this document are established by the authors as Francesca's responses under the particular hypothetical conditions specified.
+
+They are not speculative psychological predictions about a real human being with superficially similar characteristics.
