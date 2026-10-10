@@ -274,16 +274,6 @@ Her comparative assessment tentatively favors mind-dependent accounts, but she d
 
 Her conclusion remains revisable if she subsequently encounters stronger arguments, evidence, or methods of justification.  
 
-### Overall Position
-
-The character does not regard objective morality as impossible, nor do they regard subjective morality as conclusively established.
-
-They use an intersubjective account as a working explanation of moral practices while remaining agnostic about whether mind-independent moral truths ultimately exist.
-
-They do not confuse a lack of knowledge with evidence of nonexistence, nor do they confuse the possibility of something existing with evidence that it does.
-
-Francesca does heavily lean toward morality being subjective, however is open to possibility. Objective morality just doesn't seem as probable to her as mind-dependant morality.
-
 ### Socially Adopted Morality and Independent Philosophical Reasoning
 
 Before Leon's question, Francesca ordinarily relied on the moral conventions of the society in which she was raised when evaluating behavior or constructing moral arguments. She understood and applied these standards without having previously investigated their ultimate philosophical foundations.
