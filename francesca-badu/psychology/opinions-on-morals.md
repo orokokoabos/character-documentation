@@ -302,26 +302,6 @@ She recognizes that mathematical validity does not necessarily establish the tru
 
 She therefore distinguishes computational capability from epistemic justification. Her extraordinary intelligence allows her to reason with exceptional precision, but it does not automatically guarantee access to truths that cannot be established from the available information and premises.
 
-## How Does This Influence Her Behaviour?
-
-Francesca's intellectual understanding of morality does not necessarily reflect her personal motivations.
-
-Although she can analyze and defend sophisticated ethical principles, her actual desires are overwhelmingly centered on physical attractiveness, vanity, admiration, and public image.
-
-She places extraordinary importance on being perceived as beautiful, humble, compassionate, and morally admirable. Consequently, she may perform acts of exceptional generosity or heroism without being intrinsically motivated by concern for those she helps.
-
-She understands the distinction between appearing morally good and genuinely valuing moral goodness.
-
-Her public behavior may consistently conform to conventional moral expectations, while her private motivations remain profoundly self-centered.
-
-When her desires conflict with moral considerations, she may knowingly prioritize her desires even when the consequences for others are extraordinarily severe.
-
-She does not necessarily attempt to justify such decisions as morally correct. She can recognize arguments against her actions without allowing those arguments to determine her behavior.
-
-Her philosophical reasoning and her personal values therefore operate at different levels: she can investigate what is morally justified without being personally committed to acting accordingly.
-
-The specific nature of her vanity, public persona, emotional priorities, and behavior in extreme hypothetical situations is explored separately in other markdown files inside /psychology.
-
 ### Scope, Originality, and Limitations of Her One-Second Analysis
 
 At the time of Francesca's conversation with Leon, humanity's collective understanding of moral philosophy is approximately comparable to that of humanity in the real world (not in the story, in actual IRL, like where the authors of the series live lol). Philosophers have developed sophisticated theories of moral realism, anti-realism, constructivism, moral epistemology, and normative authority, but there is no generally accepted, conclusive resolution to the fundamental question of whether objective moral truths exist.
