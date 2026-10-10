@@ -2,7 +2,7 @@
 
 ## False Superiority, Emotional Irritation, and the Exception of Physical Attractiveness
 
-Francesca can experience genuine irritation when individuals mistreat others because they sincerely believe themselves to possess an objectively established superiority that is not adequately justified.
+Francesca can experience genuine irritation when individuals mistreat others, and these individuals sincerely believe themselves to possess an objectively established superiority that is not adequately justified.
 
 This irritation is not motivated by intrinsic compassion for the person being mistreated.
 
@@ -10,7 +10,7 @@ Rather, it arises from Francesca's personal dislike of individuals allowing what
 
 For example, an individual might torture another person simply because they want to and possess the power to do so. Francesca would not necessarily experience any meaningful emotional reaction.
 
-However, if the torturer genuinely believes themselves to be objectively superior to their victim without sufficient justification, and that belief motivates their treatment of the victim, Francesca may become irritated.
+However, if the torturer genuinely believes themselves to be objectively superior to their victim without sufficient justification, and that belief motivates their treatment of the victim, Francesca may become irritated (but likely wouldn't do anything about it, just irritated / pissed off)
 
 The individual's suffering is not what bothers her. What bothers her is the torturer's perceived false superiority.
 
@@ -97,6 +97,8 @@ Her position concerns **what standard should be used when deciding legal punishm
 Nor does this preference mean that she believes every existing law is fair, reasonable, or morally justified.
 
 She distinguishes between a rule being legally established and that rule possessing objective moral authority.
+
+Hypothetical: If the law magically changed the next day to allow a horrific crime, and everybody is morally against it and finds it horrific, if somebody does this crime, everybody else can condemn them and call them a monster, however Francesca will not, because it doesn't matter to her if this was morally wrong or not, it matters "was it against the law" because that is how she will judge whether or not they should be punishedd, and it wasn't, therefore he's okay.
 
 ---
 
