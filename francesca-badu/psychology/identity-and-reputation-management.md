@@ -214,6 +214,36 @@ Her understanding of desirable heroic accomplishments is therefore selective.
 
 She is particularly interested in accomplishments that demonstrate how powerful she is.
 
+### Heroism as the Demonstration of Overwhelming Power
+
+Francesca's personal interpretation of heroism is strongly centered on defeating dangerous criminals and demonstrating that those criminals are powerless against her.
+
+She wants to be recognized as an exceptionally powerful Navy Captain whose presence makes criminals incapable of succeeding or escaping defeat.
+
+The reputation she desires is approximately that of an unstoppable protector: someone so extraordinarily powerful that dangerous criminals cannot challenge her, and whose ability to defeat them makes the world appear safer.
+
+However, Francesca is primarily emotionally invested in being recognized as the extraordinarily powerful person responsible for defeating those criminals. She is not primarily motivated by the welfare of the people the criminals victimized.
+
+Consequently, when participating in a mission, she may focus overwhelmingly on finding, confronting, defeating, capturing, or killing the criminals.
+
+She can regard the defeat of the criminals as the central accomplishment of the mission without spontaneously considering every additional action that might benefit their victims.
+
+For example, rescuing imprisoned victims could strengthen her reputation as a heroic Navy Captain. Francesca is intellectually capable of recognizing this advantage.
+
+Nevertheless, recognizing an advantage when it is considered does not mean that the relevant possibility will necessarily enter her attention during every situation.
+
+If she is intensely focused on the accomplishment of defeating criminals, the possibility of rescuing their victims for additional recognition may simply fail to occur to her.
+
+This is not because she believes rescuing victims would necessarily damage her reputation, nor because she lacks the intelligence to understand its potential benefits.
+
+Rather, her attention is selectively organized around the aspects of heroism she personally values most: overwhelming strength, victory over dangerous opponents, and recognition of her extraordinary capabilities.
+
+Her indifference toward suffering means that encountering victims does not automatically create an independent emotional motivation to assist them.
+
+**Francesca can therefore accomplish what she personally considers the most important heroic achievement while overlooking actions that other people would consider essential to genuine heroism.**
+
+This selective understanding of heroism does not mean Francesca never rescues people. She can and may do so when rescuing them serves a goal that captures her attention, including cultivating her desired reputation.
+
 ### Continuity After Becoming Pheme
 
 When Francesca becomes Pheme, this motivation does not fundamentally change.
