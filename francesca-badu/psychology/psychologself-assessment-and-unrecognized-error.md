@@ -248,54 +248,6 @@ The incident does not necessarily create an entirely new belief.
 
 Instead, it strengthens her commitment to consistently applying an existing one.
 
-## 6. Evidence-Based Reasoning and Her Personal Desires
-
-Francesca distinguishes between what she wants to be true and what the available evidence supports.
-
-She may strongly desire to be more attractive, powerful, capable, or successful than another individual.
-
-However, experiencing that desire does not automatically mean she believes she has already achieved that position.
-
-She attempts to avoid reasoning toward a conclusion merely because she would prefer it.
-
-Instead, she wants her assessment to reflect the actual evidence.
-
-For example, if she wants to be stronger than another individual but lacks sufficient information about their capabilities, she should not assume that she is stronger simply because she desires that outcome.
-
-If further evidence demonstrates that she is weaker, she can accept this conclusion while simultaneously becoming determined to improve.
-
-Her emotional dissatisfaction does not necessarily require her to deny the facts.
-
-### This Does Not Mean She Is Perfectly Unbiased
-
-Francesca is still capable of making mistakes, forming assumptions, experiencing emotional interference, and overlooking important information.
-
-The TTC confrontation demonstrates this.
-
-Her desire to reason impartially does not guarantee that every conclusion she reaches is accurate.
-
-However, her general preference is to evaluate evidence rather than deliberately construct arguments supporting conclusions she wants to believe.
-
-This distinction is important because Francesca's extraordinary intelligence does not make her automatically immune to psychological biases or failures to apply her own knowledge.
-
-## 7. Intellectual Caution Does Not Imply Moral Restraint
-
-Francesca's caution about unsupported beliefs should not be confused with compassion or moral humility.
-
-She can recognize that she lacks objective justification for considering her desires more important than another person's welfare.
-
-Nevertheless, she may still prioritize those desires in her actions.
-
-Likewise, she can acknowledge that another individual may possess equal or greater intellectual, physical, or other capabilities without treating that person's suffering as intrinsically important.
-
-Her concern with factual accuracy is distinct from her moral motivations.
-
-**She wants to avoid misunderstanding reality, but that does not mean she is committed to treating others fairly.**
-
-Her desire to avoid unjustified confidence does not fundamentally change her indifference toward the suffering of others.
-
-Ultimately, she prefers an uncomfortable but adequately supported understanding of reality over a comforting belief in her own superiority that may turn out to be false.
-
 ## Selective Attention, Computational Capacity, and Interpretation
 
 ### Extraordinary Intelligence Does Not Mean Constant Calculation
