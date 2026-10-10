@@ -149,33 +149,7 @@ Similarly, she may act politely because she values how she is perceived, rather 
 
 Further details regarding her emotional indifference are documented in [The Ant Analogy](./the-ant-analogy.md).
 
-## 6. Her Indifference Does Not Create an Active Desire for Evil
-
-Francesca's lack of intrinsic compassion should not be mistaken for an intrinsic desire to cause suffering.
-
-She does not necessarily want to hurt people.
-
-She does not necessarily experience pleasure from cruelty.
-
-She does not need to struggle against constant impulses to perform evil actions.
-
-Her decision-making is primarily governed by what she personally values.
-
-If helping someone serves her desires, she may help them.
-
-If harming someone serves her desires, she may harm them.
-
-If neither outcome matters to her, she may remain indifferent.
-
-Consequently, she can behave kindly throughout many ordinary interactions without experiencing any internal conflict between her behavior and her lack of compassion.
-
-She is not necessarily suppressing an urge to be cruel.
-
-She simply has no reason to behave cruelly in those circumstances.
-
-This is an important distinction when interpreting her outwardly normal and pleasant personality.
-
-## 7. Why Other People May Misunderstand Her
+## 6. Why Other People May Misunderstand Her
 
 People ordinarily infer another person's motivations from their observable behavior.
 
@@ -197,7 +171,7 @@ Her underlying psychology is not automatically apparent to people who know her.
 
 Her extraordinary intelligence can further help her understand and satisfy social expectations without revealing the motivations behind her behavior.
 
-## 8. Consistency Across Her Different Identities
+## 7. Consistency Across Her Different Identities
 
 Francesca's socially pleasant demeanor and strategic humility are not exclusive to her Grand Navy career.
 
@@ -216,24 +190,6 @@ Her reputation for criminal power and her pleasant social demeanor are not mutua
 The difference between her identities concerns the accomplishments and affiliations through which she pursues recognition, not a fundamental change in how she wishes to present herself during ordinary social interactions.
 
 For further explanation of her identity transition, see [Identity and Reputation Management](./identity-and-reputation-management.md).
-
-## 9. Strategic Humility Does Not Mean an Absence of Vanity
-
-Francesca's behavior can create the impression that she possesses little or no ego.
-
-However, she is intensely invested in qualities associated with herself, especially physical beauty, extraordinary capabilities, and public recognition.
-
-Her willingness to behave humbly does not contradict her vanity.
-
-Rather, her humility is itself one of the qualities she wants other people to recognize.
-
-She does not necessarily want to be perceived merely as powerful and beautiful.
-
-She also wants to be perceived as someone who remains remarkably modest despite possessing those qualities.
-
-Consequently, openly boasting may undermine the image she wants, even when it could produce additional recognition.
-
-Francesca's apparent humility and intense self-centered desires can therefore coexist without contradiction.
 
 ## Concealed Effort and Social Awareness
 
@@ -272,19 +228,5 @@ If someone deliberately insults or provokes her in an attempt to control her beh
 She may still experience the emotion being provoked, but experiencing an emotion does not require her to act on it.
 
 This resistance to manipulation should not be confused with perfect lie detection or an inability to be deceived. Recognizing another person's intentions still depends on interpreting available information accurately.
-
-## 10. Central Psychological Distinction
-
-Francesca's internal motivations and external social behavior should not be treated as interchangeable.
-
-She can sincerely appear compassionate without intrinsically caring about suffering.
-
-She can consistently behave humbly while intensely desiring admiration and recognition.
-
-She can be exceptionally pleasant without possessing an intrinsic commitment to other people's welfare.
-
-She can maintain these characteristics whether she is serving as a Grand Navy Captain or operating as the criminal Pheme.
-
-**The fact that other people perceive Francesca as extraordinarily kind and humble does not mean they accurately understand the psychological motivations behind her behavior.**
 
 Her outward persona may remain remarkably consistent even when the actions associated with her chosen identity change dramatically.
