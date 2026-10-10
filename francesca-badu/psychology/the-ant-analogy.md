@@ -222,25 +222,93 @@ Their deaths are a means of resolving that problem.
 
 The incident demonstrates that Francesca's treatment of other people depends on their relationship to her personal priorities, not on the severity of their suffering.
 
-## Why Francesca Initially Overlooks the Children
+## Why Francesca Overlooks the Children and Subsequently Kills Them
 
-Francesca's initial decision to walk past the imprisoned children is not the result of being physically unable to perceive them or intellectually incapable of recognizing their situation.
+Francesca's behavior during the mission involving the imprisoned children is influenced by three established psychological characteristics:
 
-She sees the children and recognizes their presence.
+1. Her selective interpretation of heroic accomplishments.
+2. Her absence of intrinsic emotional concern for other people's suffering.
+3. Her extraordinary concern for her desired public reputation, particularly when she perceives even a small possibility of reputational damage.
 
-However, their existence does not immediately activate any motivation she considers important.
+### Why She Does Not Initially Rescue Them
 
-Francesca is primarily interested in demonstrating her extraordinary power and cultivating recognition for her attractiveness and accomplishments.
+During the operation, Francesca is primarily focused on defeating the human traffickers.
 
-She also regards the children as too young to appreciate her physical beauty in the particular way she values. Consequently, they are not an audience whose perception of her appearance she is especially interested in cultivating.
+She considers demonstrating her extraordinary power against dangerous criminals to be the most important aspect of her desired heroic reputation.
 
-Having already defeated the trafficking organization, she is primarily concerned with the accomplishment itself and any remaining threats.
+The imprisoned children's suffering does not independently motivate her to assist them.
 
-The possibility of rescuing the children to strengthen her heroic reputation does not occur to her at that moment.
+Although rescuing the children could further strengthen her reputation, this possible advantage does not occur to her at the relevant moment. Her attention has been directed toward defeating the traffickers, and she has already accomplished that immediate goal.
 
-Later, when she recognizes that they could reveal her earlier abandonment and damage her reputation, their continued existence becomes relevant to something she values.
+Her failure to consider rescuing them is a failure of selective attention.
 
-Her subsequent decision to kill them is motivated by that reputational concern, not by a sudden development of cruelty or a desire to cause suffering.
+She walks past the children without freeing them.
+
+Her decision is not motivated by hatred toward them, a belief that they deserve captivity, or a desire to prolong their suffering.
+
+She simply does not personally care about their predicament, and rescuing them is not part of the objective occupying her attention.
+
+### Why She Returns
+
+After leaving the children imprisoned, Francesca recognizes that they witnessed her passing their cells without releasing them.
+
+This creates a potential problem concerning her reputation.
+
+If the children are eventually freed by someone else, they might tell others that Francesca saw them and deliberately left them imprisoned.
+
+Such testimony could undermine her carefully maintained image as an extraordinarily heroic and admirable Navy Captain.
+
+Francesca does not need to believe that this outcome is certain or even particularly likely.
+
+The possibility itself can become exceptionally important to her because she places extraordinary emotional value on preserving her public image.
+
+### Why She Does Not Simply Return and Rescue Them
+
+Francesca could potentially return, rescue the children, and explain that she had been checking the surrounding area or intended to return after completing another task.
+
+She possesses the intelligence to recognize that explanations of this kind may be available.
+
+However, she does not necessarily regard such explanations as completely eliminating the possibility of damaging testimony.
+
+The children have already observed her leaving them imprisoned. They could still describe that behavior to other people, interpret it negatively, or contradict her preferred account of the incident.
+
+Even a relatively small residual possibility of reputational damage can be intensely undesirable to Francesca.
+
+Her concern is not simply to improve her reputation whenever possible. She can also become disproportionately concerned with eliminating specific perceived threats to the reputation she already possesses.
+
+Because the children's continued existence carries no intrinsic emotional importance to her, their deaths do not create an internal compassion-based reason to reject killing them.
+
+Under the circumstances of this particular incident, she chooses to eliminate the potential witnesses rather than preserve their lives and accept the remaining reputational uncertainty.
+
+### The Investigative Circumstances
+
+The series takes place in a setting without the forensic technology or investigative capabilities that would allow authorities to reliably establish Francesca's responsibility for these deaths.
+
+Within the particular circumstances of this incident, Francesca can attribute the children's deaths to the traffickers without creating suspicious circumstances that would expose her responsibility.
+
+There is no available independent evidence or investigative process capable of reliably contradicting her account in this situation.
+
+Consequently, eliminating the children does not create the same practical risk of forensic discovery that such an action might create in a technologically advanced modern setting.
+
+This does not establish that Francesca can commit every possible crime without detection. It describes the circumstances and investigative limitations relevant to this specific event.
+
+### Why This Does Not Contradict Her Intelligence
+
+Francesca's extraordinary intelligence does not require her to continuously consider every possible action that could increase her reputation.
+
+Her attention is influenced by her immediate goals and emotional priorities.
+
+Before she recognizes the reputational risk, rescuing the children has little relevance to the objective occupying her attention.
+
+After she recognizes the risk, their continued existence becomes directly relevant to something she values intensely.
+
+The change in her behavior therefore results from a change in which consequences she is actively considering.
+
+She does not necessarily believe that killing the children is objectively morally justified, nor that it is the only logically conceivable response.
+
+She chooses it because, under the established circumstances, she considers it an effective way to eliminate a potential reputational threat, while the children's lives possess no intrinsic emotional significance to her.
+
+This incident demonstrates how Francesca's selective attention, extraordinary vanity, emotional indifference, and willingness to prioritize her own desires can interact to produce exceptionally cruel behavior.
 
 ## Intellectual Understanding Versus Emotional Motivation
 
