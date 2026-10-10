@@ -32,6 +32,24 @@ The experience does not awaken a lasting interest in moral philosophy. Having an
 
 **Basically, everything she came up with was done within a second, whether or not she changes her opinions or conclusions, finds more inconsistencies, challenges herself more, and comes up with newer, refined philosophical ideas depends on if you give her more time to think, but this is what she came up with within a second of thinking.**
 
+## What Actually Happens in the Story
+
+This document describes Francesca's actual internal reasoning from the authors' perspective. **It does not describe what the audience witnesses in the story.**
+
+In the actual narrative, Leon asks Francesca whether purging demi-humans is a moral obligation. Francesca considers the question for approximately one second and simply responds negatively.
+
+That is essentially the entirety of what the audience observes regarding her philosophical reasoning in this interaction.
+
+There is no extended philosophical discussion, internal monologue, narrated thought process, or scene in which Francesca explains the arguments and distinctions presented in this document. The audience is not shown that she independently develops and evaluates these philosophical ideas.
+
+Leon just asks and she's just like "No". And that's it, nothing else happened.
+
+The philosophical analysis is not something the audience is expected to infer from her response, nor is it a separate conversation, an additional scene, or a reconstruction of reasoning she develops later.
+
+It is author-established, behind-the-scenes information about what actually happened internally during an otherwise extremely brief interaction.
+
+**In short: the story presents a simple, approximately one-second response. This document reveals the  internal reasoning that actually occurred during that second, despite being entirely concealed from the audience.**
+
 ---
 
 The philosophical position Francesca arrives at during her one-second response to Leon is best described as **fallibilist metaethical agnosticism, with an intersubjective working model of morality and an emphasis on epistemic underdetermination**.
