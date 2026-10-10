@@ -40,4 +40,4 @@ The repository is not itself the narrative presentation of the series.
 
 The documentation may explain motivations, intentions, mental processes, and psychological facts that are never explicitly communicated to the audience within the story.
 
-(Authors are straight forwardly explaining and telling you what she thinks)
+(Authors are straight forwardly explaining and telling you what she thinks, like literally straight forward telling you and explaining, that's it.)
