@@ -1,8 +1,6 @@
 # Francesca's Opinion on Morality
 
-The arguments and distinctions recorded below summarize the aspects of Francesca's reasoning necessary to establish her philosophical position. They do not constitute an exhaustive transcript of her internal analysis, which also includes original insights extending beyond humanity's existing philosophical understanding. The absence of a complete formal reconstruction of those insights does not imply that Francesca failed to develop them.
-
-The philosophical analysis documented here is a highly compressed representation of Francesca's internal reasoning. It does not attempt to reproduce every inference, calculation, hypothetical scenario, conceptual distinction, or original insight she develops.
+The arguments and distinctions recorded below summarize the aspects of Francesca's reasoning necessary to establish her philosophical position. They do not constitute an exhaustive transcript of her internal analysis, which also includes original insights extending beyond humanity's existing philosophical understanding. The absence of a complete formal reconstruction of those insights does not imply that Francesca failed to develop them. It does not attempt to reproduce every inference, calculation, hypothetical scenario, conceptual distinction, or original insight she develops.
 
 Her cognitive processing operates at a scale far beyond contemporary human computational capabilities. Consequently, this document summarizes the reasoning necessary to characterize her philosophical position rather than providing an exhaustive reconstruction of her thought processes.
 
@@ -328,7 +326,7 @@ After completing her initial analysis, Francesca disagrees with Leon's assertion
 
 Her decision to stop does not mean that she has exhausted her intellectual capabilities, reached the limits of possible philosophical discovery, or established that the remaining questions cannot be answered.
 
-This is only what she came up with given aa second of thinking.
+This is only what she came up with given a second of thinking.
 
 ### Authorial Representation of Extraordinary Intelligence
 
