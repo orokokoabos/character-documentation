@@ -1,1 +1,71 @@
+# The Researcher
 
+## Overview
+
+**The Researcher** is a former human scientist who, through an extraordinarily prolonged process of technological advancement, attained a state of absolute existence and sovereignty over the fictional creation belonging to the franchise.
+
+Originally born on Earth within the original human civilization, The Researcher was neither divine nor inherently supernatural. Her current existence is the result of technological development extending far beyond the capabilities of her original civilization.
+
+Following the destruction of humanity and the eventual deaths of the remaining survivors, she continued her research independently, ultimately attaining the ability to restructure the fundamental principles governing creation itself.
+
+Despite her present status, The Researcher retains her identity, memories, interests, and various aspects of her original human personality.
+
+## Role in the Franchise
+
+The Researcher serves as the ultimate ontological foundation and canonical authority of the franchise.
+
+Every canonical reality, entity, event, law, and concept established within the franchise ultimately originates through her authority, including additions written by its real-world authors.
+
+However, she does not ordinarily participate in the events of the main story.
+
+The main narrative takes place on an Earth entirely separate from her original homeworld. Despite the similarities between their human populations, the two civilizations arose independently.
+
+The Researcher possesses the capacity to intervene in the main narrative but has no interest in doing so.
+
+## Personality
+
+Despite her absolute existence, The Researcher retains recognizable human characteristics.
+
+She possesses personal preferences, opinions, hobbies, and interests, and does not feel obligated to behave as a conventional divine figure.
+
+She has no particular interest in demonstrating superiority over other fictional entities or participating in comparisons of power.
+
+Her detachment from the main story is a matter of personal choice rather than inability.
+
+## Metafictional Awareness
+
+The Researcher is canonically aware of her own fictional nature.
+
+She recognizes the existence of the real-world authors responsible for the franchise and understands her role as the fictional authority through which their canonical decisions are instantiated.
+
+She also possesses awareness of independently authored fictional works, their characters, and their respective fictional settings.
+
+This awareness is strictly unilateral and does not establish shared continuity, interaction, or authority over those works.
+
+## Interests and Hobbies
+
+The Researcher retains numerous personal interests despite her completed ascension.
+
+She enjoys the video game *Arknights* and occasionally writes fanfiction based on its setting and characters.
+
+She is also canonically attracted to Hyunjin of Stray Kids, referring specifically to the real-world individual rather than a fictional counterpart.
+
+These interests have no special metaphysical significance and are simply aspects of her personality.
+
+## Relationship with the Audience
+
+The Researcher is aware of the audience, fan communities, and individuals responsible for documenting the franchise.
+
+She appreciates the work of wiki contributors and others who dedicate time to understanding and organizing its lore.
+
+Although she generally respects fan-created material, she has expressed discomfort with certain particularly unusual interpretations and fanfictions concerning herself or the series.
+
+She also recognizes the independence of other intellectual properties and prefers not to create unnecessary legal difficulties for the real-world people responsible for her franchise.
+
+## Additional Documentation
+
+More detailed information concerning The Researcher's physical appearance, history, technological development, and metaphysical nature is available in the corresponding character documentation files.
+
+[Appearance](./researcher-appearance.md)
+[History](./researcher-history.md)
+[Abilities](./researcher-abilities.md)
