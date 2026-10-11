@@ -42,6 +42,28 @@ She also possesses awareness of independently authored fictional works, their ch
 
 This awareness is strictly unilateral and does not establish shared continuity, interaction, or authority over those works.
 
+### Acknowledgment of Other Fictional Works
+
+The Researcher possesses canonical awareness of characters and settings belonging to independently authored fictional franchises.
+
+She occasionally acknowledges these characters by name, demonstrating her awareness of their existence as fictional creations.
+
+Such acknowledgments are strictly unilateral. They do not constitute crossovers, interactions, shared continuity, or reciprocal recognition by the referenced characters or their respective franchises.
+
+The Researcher generally avoids discussing copyrighted characters in unnecessary detail, partly out of consideration for the real-world individuals responsible for writing and publishing her franchise.
+
+"I know of The One Above All, The Presence, Son Goku, and plenty of others.
+
+Yes I know who they are. 
+
+The SCP Foundation is pretty cool.
+
+Their stories belong to their respective creators, not me, so I'm not gonna say anything. 
+
+I don't want to give the people writing my series unnecessary legal headaches."
+
+— The Researcher
+
 ## Interests and Hobbies
 
 The Researcher retains numerous personal interests despite her completed ascension.
