@@ -9,3 +9,13 @@ These do not document all the events of the arcs, it only documents Francesca's 
 So to not think everything put in any of the arcs .md is the entire arc, it's not, it's only talking about the parts of the arc that Francesca is in.
 
 We also do not document arcs that Francesca is not in (unless it is relevant to her or helps understand her). So that is why we haven't documented 50+ arcs, because 99% of them have nothing to do with Badu, so we didn't document it.
+
+## Why Is the Arcs Directory at the Repository Root?
+
+Although the repository primarily exists to document Francesca Badu, certain other characters and events must also be documented to provide the necessary context for understanding her.
+
+These supporting character documents may need to reference events described in the arc documentation.
+
+For this reason, the /arcs directory is located at the repository root rather than inside /francesca-badu.
+
+This organizational choice does not change the repository's primary focus. Arc documentation remains predominantly centered on Francesca Badu, and other characters and events are documented primarily to the extent that they help explain or contextualize her.
