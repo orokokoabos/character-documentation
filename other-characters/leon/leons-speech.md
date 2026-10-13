@@ -46,9 +46,9 @@
 
 "I stand before you today, and I tell you:
 
-"That helplessness has come to an end."
+"That helplessness has come to an end!"
 
-"And yet..."
+"..."
 
 "As I stand here, looking upon this extraordinary assembly, I am reminded of something.
 
