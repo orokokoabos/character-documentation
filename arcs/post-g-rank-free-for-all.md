@@ -154,6 +154,100 @@ The formation of this coalition becomes one of the major consequences of the G-R
 
 This is the information about the regime / coalition Leon eventually forms: [Leon's Regime](../world-powers/anti-demi-human-international-coalition.md)
 
+### How Francesca Becomes the Final Antagonist
+
+One of the most significant long-term consequences of Leon's movement is the role Francesca eventually assumes in the final stages of the story.
+
+Within Leon's regime, Francesca is not regarded as merely an exceptionally powerful individual or an ordinary political figurehead.
+
+Leon and his followers elevate her to an almost divine position.
+
+She is regarded as **the Savior**, an extraordinary, nearly godlike figure whose actions have opened the path toward humanity's supposed liberation.
+
+Leon interprets Francesca's victories during the G-Rank Free For All as the event that made his movement possible.
+
+He believes that she has provided humanity with an extraordinary opportunity and that his regime is carrying out the mission associated with that opportunity.
+
+Consequently, Francesca becomes central to the movement's ideological identity.
+
+Her extraordinary power, reputation, and perceived authority are used to legitimize the regime's actions.
+
+Although Leon is the individual primarily responsible for organizing and directing the coalition, its members attribute enormous significance to Francesca and regard her as the ultimate figure behind their cause.
+
+### The World Government's Interpretation
+
+The World Government and its pro-demi-human allies observe the extraordinary importance Leon's regime assigns to Francesca.
+
+From their perspective, she appears to be the central figure of a powerful international movement dedicated to the extermination of demi-humans.
+
+Leon's regime portrays her as its savior, its guiding figure, and the extraordinary individual whose actions make its mission possible.
+
+The opposing coalition consequently interprets Francesca as one of the principal sources of the regime's power and legitimacy.
+
+Where Leon's followers regard her as **the Savior**, the World Government regards her as **the Enemy of Humanity**.
+
+The opposing coalition considers Francesca an exceptionally dangerous individual whose continued presence represents an enormous threat.
+
+Her extraordinary combat capabilities make this concern particularly serious.
+
+As a result, the World Government and its allies come to regard neutralizing Francesca as a major strategic objective.
+
+**They effectively interpret her as the head of the dragon: the central figure whose removal is necessary to confront the regime she supposedly leads and empowers.**
+
+However, this interpretation does not accurately reflect the actual relationship between Francesca and Leon's movement.
+
+### Francesca's Actual Involvement
+
+In reality, Francesca is not the ideological founder or principal organizer of the regime.
+
+She does not direct Leon's political activities, develop his ideology, or personally organize the extermination campaign.
+
+For much of the conflict, she is largely inactive.
+
+She generally has little personal interest in the war's underlying ideological dispute.
+
+Her willingness to accept her position as the regime's symbolic savior is primarily motivated by the extraordinary admiration and recognition she receives.
+
+She enjoys being worshipped as an exceptionally beautiful, powerful, and intelligent individual.
+
+However, she does not share the ideological commitment that Leon and his followers attribute to her.
+
+This creates a fundamental misunderstanding between Francesca's actual motivations and the role assigned to her by both opposing factions.
+
+Leon's regime believes she is humanity's savior and the figure behind its mission.
+
+The World Government believes she is a central enemy whose removal is necessary to defeat the opposing movement.
+
+**Both sides assign Francesca a level of ideological involvement and commitment that she does not actually possess.**
+
+Nevertheless, Francesca willingly accepts the benefits of her position, despite the atrocities committed by the movement that worships her.
+
+Her lack of ideological commitment does not mean her association with the regime is without consequences.
+
+### Why She Eventually Becomes the Final Antagonist
+
+Because the World Government and its allies regard Francesca as a central threat, they eventually move to neutralize her.
+
+This decision forces Francesca into direct conflict with the opposing coalition.
+
+Before this point, Francesca has generally remained relatively passive regarding the ideological war.
+
+However, once the coalition directly targets her, the conflict becomes personally relevant to her.
+
+Her extraordinary combat capabilities make confronting her an exceptionally difficult undertaking.
+
+The resulting confrontation eventually places Francesca against some of the world's most powerful individuals and major forces aligned against her (not in this arc though, this starts happening in the future arcs).
+
+Importantly, **Francesca does not become the final antagonist because she was secretly planning or directing the entire ideological war**.
+
+She becomes the final antagonist because Leon's regime elevates her into an almost divine symbolic leader, the opposing coalition identifies her as a principal enemy, and the subsequent attempt to neutralize her brings her extraordinary power directly into the conflict.
+
+In this sense, the world helps create the circumstances that turn Francesca into its final major opponent.
+
+She is genuinely powerful and dangerous, and she willingly accepts the recognition associated with Leon's regime. However, the ideological motivations attributed to her are largely projections created by the people around her.
+
+**The final antagonist of a worldwide ideological war is someone who was never particularly invested in the ideology being fought over.**
+
 ## Scope of This Documentation
 
 This document does not describe every political, military, or personal event occurring during the Post–G-Rank Free For All arc.
