@@ -285,3 +285,67 @@ What changes is his emotional response to carrying them out.
 Over time, Leon becomes increasingly capable of witnessing and participating in extreme violence without experiencing the same level of distress that characterized his first operation.
 
 This establishes the emotional and ideological foundation for his continued expansion of the movement that will eventually become the international anti-demi-human coalition and regime.
+
+### Leon's Sense of Purpose and His Refusal to Waste the Opportunity
+
+A major reason Leon continues his campaign despite his initial emotional distress is his belief that Francesca has given him an opportunity of extraordinary significance.
+
+Before the G-Rank Free For All, Leon possesses an extremely negative assessment of his own life and accomplishments.
+
+When he learns of Francesca's victories, however, his perception of his future changes dramatically.
+
+For the first time, he believes that he has been presented with a genuine opportunity to accomplish something of extraordinary importance.
+
+The opportunity feels almost heaven-sent to him.
+
+Although Francesca did not deliberately create this opportunity for Leon, he interprets her actions as something personally and historically significant.
+
+From his perspective, an extraordinarily powerful woman whom he deeply admires has suddenly made possible something he had previously considered practically impossible.
+
+The event affects him so profoundly that he comes to regard it as the defining opportunity of his life.
+
+Leon believes that such an opportunity may never present itself again.
+
+He fears that if he fails to act now, he will return to his previous state of helplessness and spend the rest of his life knowing that he voluntarily abandoned his only realistic chance to prevent humanity's extinction.
+
+He imagines himself growing old and dying without accomplishing anything meaningful, or potentially living long enough to witness the catastrophe he believes is approaching.
+
+To Leon, that possibility is intolerable.
+
+His sense of personal worth becomes strongly dependent on whether he can successfully pursue the opportunity before him.
+
+He begins regarding the prospect of abandoning his campaign as something so disgraceful that he considers a life spent doing nothing afterward scarcely worth living.
+
+His reasoning becomes increasingly absolute.
+
+He believes that if he cannot act even after Francesca has created such an extraordinary opportunity, then he has effectively failed both himself and humanity.
+
+He regards voluntarily abandoning this opportunity as an unacceptable betrayal of the people he believes he has a responsibility to save.
+
+This conviction becomes especially significant during his first extermination operation.
+
+As Leon watches the demi-human tribes being killed, he experiences genuine distress and recognizes that he is emotionally unprepared to witness the consequences of his ideology.
+
+However, rather than interpreting that distress as a reason to stop, he reminds himself of what he believes is at stake.
+
+He believes that Francesca has opened a path that did not previously exist.
+
+He tells himself that he cannot throw away this opportunity simply because carrying out his objective is emotionally painful.
+
+From his perspective, doing so would mean wasting Francesca's extraordinary achievement, abandoning humanity to its supposed fate, and returning to the helpless existence he desperately wants to escape.
+
+He therefore begins interpreting his own emotional suffering as something he must overcome in order to fulfill what he considers his responsibility.
+
+**Leon's motivation is no longer only the belief that exterminating demi-humans is necessary for humanity's survival. It is also the conviction that failing to exploit Francesca's opportunity would render his own life meaningless and constitute an unforgivable failure toward humanity.**
+
+These beliefs reinforce one another.
+
+His fear of humanity's extinction makes the opportunity seem necessary.
+
+His feelings of personal worthlessness make the opportunity seem indispensable to his own existence.
+
+His admiration and infatuation with Francesca make the opportunity seem extraordinarily precious.
+
+Together, these factors strengthen his determination to continue even when the reality of his actions initially horrifies him.
+
+As Leon repeatedly encounters similar violence, he gradually becomes desensitized to it.
