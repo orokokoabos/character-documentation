@@ -163,3 +163,125 @@ It focuses on the consequences of Francesca's earlier actions, Leon's introducti
 The political movements and international conflict have causes extending far beyond Francesca herself.
 
 **Francesca is an unintended catalyst for the escalation, not the original cause of the underlying ideological conflict.**
+
+## Leon's First Extermination Campaign — The Forest Near His Home
+
+This is important about Leon's character, there are multiple other events in this arc, but they aren't directly relevant to Francesca, so we haven't included them in this document, they exist but we aren't writing about it so it will be missing for now. This section (event in this arc) isn't directly relevant to Francesca either, but it is a good opportunity to show Leon's character / personality, so we chose to include this here anyways.
+
+### Background and Location
+
+Leon originally lives in a mountain village situated along a mountain range.
+
+Below the village lies a large forest inhabited by multiple demi-human tribes.
+
+Following the G-Rank Free For All, Leon begins seeking support from individuals and organizations that share or sympathize with his opposition to demi-humans.
+
+During the earliest stages of his campaign, he succeeds in gaining the assistance of approximately one or two organizations or groups, including armed individuals capable of carrying out military operations.
+
+At this point, Leon's movement is still extremely small.
+
+He does not yet possess the support of entire nations, command an international coalition, or control the large-scale regime that will eventually develop under his leadership.
+
+Nevertheless, he finally possesses something he previously lacked: a group of people willing and able to act on his ideology.
+
+### The First Operation
+
+After obtaining this initial support, Leon returns to the region surrounding his home.
+
+His first major action is directed against the demi-human tribes living in the forest beneath his mountain village.
+
+With the assistance of his newly acquired supporters, he initiates an extermination operation against the forest's inhabitants.
+
+The armed groups enter the forest and begin killing the demi-humans living there.
+
+The attack does not distinguish between combatants and noncombatants.
+
+Entire communities are targeted, including children.
+
+The operation also involves burning the forest, destroying the settlements and killing those who remain trapped within the affected area.
+
+Leon does not personally need to participate in every act of violence.
+
+Instead, he remains at his home higher along the mountain range, overlooking the forest while his newly assembled supporters carry out the operation below.
+
+From his position, he can observe the destruction and the suffering of the inhabitants.
+
+This is the first major action undertaken through the movement Leon has begun assembling.
+
+### Leon's Emotional Reaction
+
+As Leon watches the extermination take place, he experiences two powerful and conflicting emotional responses.
+
+On one hand, he is horrified by what he is witnessing.
+
+He sees demi-humans being killed, including children, and observes people attempting to escape the violence.
+
+Despite his ideological convictions, witnessing the actual consequences of his campaign affects him deeply.
+
+He realizes that he is not emotionally prepared for the reality of what he has initiated.
+
+He feels that he is not suited to witnessing this kind of suffering and violence.
+
+However, at the same time, Leon experiences an overwhelming sense of relief and accomplishment.
+
+For a prolonged period, he has believed that humanity is approaching extinction while he remains powerless to prevent it.
+
+He has spent considerable time despairing over his inability to change the situation.
+
+Now, for the first time, he is actually doing something.
+
+The people he considers responsible for humanity's approaching extinction are being eliminated through a movement that he himself has begun organizing.
+
+From his perspective, this is the first tangible evidence that he may be capable of saving humanity.
+
+The realization that his efforts are finally producing results is emotionally overwhelming.
+
+Consequently, Leon begins shedding tears.
+
+However, he does not visibly break down or sob.
+
+His facial expression remains relatively still, and he makes no audible crying sounds.
+
+Instead, tears silently stream down his face as he watches the events unfolding in the forest below.
+
+**His tears are not caused by a single emotion.**
+
+They reflect both his distress at witnessing the suffering and deaths of the demi-humans and his overwhelming relief that he is finally accomplishing something he believes is necessary.
+
+He is simultaneously horrified by what he has initiated and deeply moved by the fact that his campaign has finally begun.
+
+### His Decision to Continue
+
+Despite his distress, Leon does not abandon the operation or renounce his ideology.
+
+He continues believing that eliminating demi-humans is necessary to prevent humanity's eventual extinction.
+
+His reaction does not mean that he has concluded his ideological objective is wrong.
+
+Rather, he discovers that carrying out what he considers necessary is much more emotionally difficult than he initially anticipated.
+
+He believes the extermination of demi-humans is required to prevent an even greater catastrophe, even though witnessing the immediate consequences causes him distress.
+
+Consequently, he continues his campaign despite his emotional reaction.
+
+As Leon becomes involved in further operations and repeatedly encounters similar violence, his sensitivity to witnessing it gradually diminishes.
+
+What initially produces an overwhelming emotional response becomes increasingly familiar.
+
+He becomes progressively more accustomed to the suffering and deaths associated with his movement's activities.
+
+At the same time, his commitment to continuing the campaign becomes stronger.
+
+Leon recognizes that he has already begun pursuing his objective and believes that stopping would mean abandoning what he considers humanity's opportunity for survival.
+
+He increasingly regards the terrible consequences of his actions as necessary costs of achieving that objective.
+
+His growing ruthlessness is therefore not the result of suddenly developing an enjoyment of cruelty or adopting an entirely new ideology.
+
+His original convictions remain substantially the same.
+
+What changes is his emotional response to carrying them out.
+
+Over time, Leon becomes increasingly capable of witnessing and participating in extreme violence without experiencing the same level of distress that characterized his first operation.
+
+This establishes the emotional and ideological foundation for his continued expansion of the movement that will eventually become the international anti-demi-human coalition and regime.
