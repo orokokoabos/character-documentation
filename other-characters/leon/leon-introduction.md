@@ -6,7 +6,7 @@ The leader of [Leon's Regime](../../world-powers/anti-demi-human-international-c
 
 **Leon** is the principal organizer and ideological leader of the international anti-demi-human movement that eventually develops into a major military and political coalition.
 
-He is first introduced in the **[Post–G-Rank Free For All arc](../../arcs/post-g-rank-free-for-all.md)**, following Francesca Badu's participation in the G-Rank Free For All.
+He is first introduced in the **[Post–G-Rank Free For All arc](../../arcs/post-g-rank-free-for-all.md)**, following Francesca Badu's participation in the G-Rank Free For All. The Post G Rank document is significant to understanding Leon as well so it should be read.
 
 Leon's introduction occurs at this point because Francesca's actions during the preceding arc create the circumstances that convince him that his political and ideological objectives may finally be achievable.
 
@@ -301,6 +301,82 @@ Francesca enjoys the benefits of that association without sharing his conviction
 
 His actions contribute to transforming Francesca from an extraordinarily powerful individual pursuing personal recognition into a globally significant political symbol and, eventually, a principal target of the opposing coalition.
 
-This process ultimately contributes to the circumstances in which Francesca becomes the final antagonist of the story.
+## Private Emotional Responses and Devotion to Francesca
+
+Leon occasionally experiences intense emotional responses when reflecting privately on his life, accomplishments, and the opportunity he believes Francesca has given him.
+
+These moments do not necessarily occur during important events, battles, or political developments.
+
+They can happen during entirely ordinary circumstances, such as when Leon is sitting alone in his office, resting, or simply thinking without doing anything in particular.
+
+During these moments, Leon may begin reflecting on how dramatically his life has changed.
+
+Before the G-Rank Free For All, he regarded himself as someone who had accomplished practically nothing meaningful.
+
+He believed humanity was approaching extinction, yet he lacked the power to do anything about it.
+
+His inability to act had caused him considerable despair, frustration, and feelings of personal worthlessness.
+
+Now, however, he is actually making a difference in the world.
+
+He has begun building an increasingly powerful movement, gathering supporters, and taking actions that he believes are necessary to prevent humanity's extinction.
+
+What once seemed completely impossible has become something he can actively pursue.
+
+Sometimes, simply realizing this is enough to overwhelm him emotionally.
+
+### Silent Tears
+
+During these private moments of reflection, tears may begin streaming down Leon's face.
+
+Rather, they frequently result from Leon being deeply moved by the realization that he is finally accomplishing something he considers meaningful.
+
+He reflects on the fact that, after spending so much of his life feeling powerless and useless, he now has an opportunity to do something of extraordinary importance.
+
+He genuinely believes he is contributing to humanity's survival.
+
+The realization that he is no longer completely helpless affects him profoundly.
+
+### Francesca's Importance to Him
+
+These reflections frequently lead Leon to think about Francesca.
+
+He believes that without her actions during the G-Rank Free For All, he might never have found an opportunity to pursue his objective.
+
+From his perspective, Francesca is the reason his current life is possible.
+
+She represents the turning point between his former helplessness and his newfound sense of purpose.
+
+Leon regards this opportunity as an extraordinary gift, almost as though it had been sent from heaven.
+
+Although Francesca never intended to provide him with such an opportunity, Leon attaches immense personal significance to her actions.
+
+His admiration for her extends far beyond recognizing her extraordinary power, intelligence, and beauty.
+
+She occupies an enormously important place in his emotional life.
+
+Leon is deeply infatuated with her, idealizes her, and regards her as an almost divine figure responsible for making humanity's supposed salvation possible.
+
+When reflecting on Francesca, he may become overwhelmed by gratitude, admiration, relief, and the realization that she has indirectly transformed his existence.
+
+He believes that she has given him the opportunity to make his life meaningful.
+
+In this sense, Francesca becomes inseparable from Leon's understanding of his own purpose.
+
+### Emotional Significance
+
+These moments demonstrate that Leon's commitment to his ideology is not merely an intellectual conviction or a political objective.
+
+It is also deeply connected to his personal identity, emotional well-being, and sense of self-worth.
+
+He genuinely believes that he has finally found a reason to live meaningfully.
+
+Even when he is alone, without anyone watching him or praising his accomplishments, this realization can move him to tears.
+
+His emotional response is therefore not a performance intended to impress his followers or reinforce his public image.
+
+It is a genuine private reaction.
+
+**For Leon, Francesca is not merely someone he admires. She is the person whose actions made it possible for him to escape what he regarded as a meaningless, powerless existence and dedicate himself to what he believes is humanity's salvation.**
 
 **Leon is not simply a subordinate acting under Francesca's direction. He is an independent ideological actor who constructs a movement around an idealized interpretation of someone whose actual priorities are fundamentally different from his own.**
