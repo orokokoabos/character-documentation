@@ -62,9 +62,11 @@
 
 "Then, the heavens bestowed upon this world a miracle.
 
-"An individual unlike any who had come before.
+"As though the gates of heaven themselves had opened, and an angel had descended upon our world.
 
-"Whose very existence would overturn the order of our world, whose extraordinary gifts would make possible what generations of men had believed impossible.
+"Someone unlike any who had come before.
+
+"Whose extraordinary gifts would make possible what generations of men had believed impossible.
 
 "And through her, the path before us was opened."
 
@@ -76,12 +78,8 @@
 
 "WHO IS THE MOST POWERFUL?"
 
-"WHO IS THE SAVIOR WHOM GOD HIMSELF HAS SENT DOWN FROM HEAVEN TO RESCUE HUMANITY FROM ITS FATE?"
+"AND MOST IMPORTANTLY, WHO IS THE SAVIOR GOD HIMSELF SENT DOWN FROM HEAVEN TO RESCUE HUMANITY?"
 
 "Of course, there is only one answer."
 
 "Pheme."
-
-"**Pheme!**"
-
-*The gathering answers him, the name rising from the multitudes as the banners of the assembled nations wave above them.*
