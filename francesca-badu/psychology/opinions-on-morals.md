@@ -6,7 +6,7 @@ Her cognitive processing operates at a scale far beyond contemporary human compu
 
 ### Origin of Her Moral Philosophy
 
-This conversation and the resulting opinion on morality happens during End-Game Francesca (around 23 years old) when she meets Leon.
+This conversation and the resulting opinion on morality happens during End-Game Francesca (around 23 years old) when she meets Leon [(Leon)](../../other-characters/leon).
 
 Before her conversation with Leon, Francesca had never seriously contemplated the philosophical foundations of morality. She had no interest in the subject and possessed little meaningful knowledge of established philosophical theories.
 
