@@ -152,7 +152,7 @@ Francesca's actions create the opportunity, but Leon is the individual who recog
 
 The formation of this coalition becomes one of the major consequences of the G-Rank Free For All and contributes directly to the eventual outbreak of the worldwide ideological war.
 
-This is the information about the regime / coalition Leon eventually forms: [Leon's Regime](../../world-powers/anti-demi-human-international-coalition.md)
+This is the information about the regime / coalition Leon eventually forms: [Leon's Regime](../world-powers/anti-demi-human-international-coalition.md)
 
 ## Scope of This Documentation
 
