@@ -54,7 +54,7 @@
 
 "Not long ago, a gathering such as this would have been inconceivable.
 
-"Not long ago, the powers that opposed us seemed too great to overcome. The path before us was closed, and for many of us, hope had become a distant memory.
+"The powers that opposed us seemed too great to overcome. The path before us was closed, and for many of us, hope had become a distant memory.
 
 "I confess to you that there was a time when I believed I would never live to see this day.
 
