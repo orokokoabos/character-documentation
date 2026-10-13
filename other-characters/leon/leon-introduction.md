@@ -1,5 +1,7 @@
 # Leon
 
+The leader of [Leon's Regime](../../world-powers/anti-demi-human-international-coalition.md)
+
 ## Overview and First Appearance
 
 **Leon** is the principal organizer and ideological leader of the international anti-demi-human movement that eventually develops into a major military and political coalition.
