@@ -67,3 +67,5 @@ The resulting conflict is not simply a confrontation between Leon and the World 
 It involves numerous nations, factions, organizations, and individuals with differing motivations, political interests, and views regarding demi-humans.
 
 As tensions escalate, the opposing alliances become involved in a worldwide ideological and military conflict.
+
+This organization appears around the final arcs / the end game of the series and is defeated at the very end, at the end of the series, ending the war and the main series' story.
