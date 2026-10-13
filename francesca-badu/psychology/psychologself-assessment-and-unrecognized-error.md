@@ -190,7 +190,7 @@ Rather, unrecognized errors may distort her entire understanding of a situation 
 
 During the final chapters/episodes (like the book or animation) of the TTC event, Francesca encounters an individual whom she initially assumes is an ordinary, relatively weak opponent (Salore)
 
-This happens around Teenage-Francesca, for more information about the arc (unrelated to psychology, but to the events that actually happened, read [TTC Arc](../arcs/TTC.md), and also read [Arcs Guide](../arcs/README.md) so you understand how to read and evaluate each arc markdown properly, the README in arcs is important.
+This happens around Teenage-Francesca, for more information about the arc (unrelated to psychology, but to the events that actually happened, read [TTC Arc](../../arcs/TTC.md), and also read [Arcs Guide](../../arcs/README.md) so you understand how to read and evaluate each arc markdown properly, the README in arcs is important.
 
 Unknown to her at the time, Salore is actually the fourth-most-wanted criminal in the world and possesses extraordinary combat capabilities and she didn't recognize it was him.
 
