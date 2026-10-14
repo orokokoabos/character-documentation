@@ -13,7 +13,7 @@ We will (probably) specify what Francesca we are talking about, there is a few:
 - Adult Francesca (Around 19 years old)
 - Adult Francesca (Post Admiral Arc, known as "Pheme" instead of Francesca, around 20 years old)
 - End-Game Francesca (around 23 years old)
-- Post-Prison Francesca (around 500 centuries+ years old, this is Francesca in the sequel in the distant future, this is not part of the main story, this is the sequel version of Francesca, check out [sequel](../../sequel-story))
+- Post-Prison Francesca (around 500 centuries+ years old, this is Francesca in the sequel in the distant future, this is not part of the main story, this is the sequel version of Francesca, check out [sequel](../sequel-story))
 
 ---
 
