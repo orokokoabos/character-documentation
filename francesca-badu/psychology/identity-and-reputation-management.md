@@ -253,3 +253,20 @@ She wants people to privately recognize the qualities she values.
 She may prefer someone who silently and genuinely acknowledges her exceptional abilities over someone who praises her insincerely.
 
 Likewise, she can be satisfied knowing that people recognize her power without needing to advertise her accomplishments herself.
+
+## The Navy Uniform, Official Résumé, and the Early Appeal of Achievement
+
+Francesca did not initially join the Grand Navy as a wealthy, influential, or already powerful individual. She entered at approximately seventeen to eighteen years old, relatively weak, after a childhood spent in a financially struggling rural household.
+
+One of her initial ambitions within the institution was simply to obtain the Captain's uniform because she disliked the basic Navy uniform's appearance. Advancing toward that uniform required training, increasing her combat ability, and earning promotion. This starting motivation was aesthetic, not an already-established plan to cultivate worldwide fame.
+
+The Grand Navy also maintained records of officers' accomplishments. Francesca became especially interested in achievements involving the defeat of powerful and recognizable individuals, including highly ranked wanted criminals. Such victories produced identifiable entries in an official résumé rather than merely private knowledge that she had won a difficult fight.
+
+**Illustrative hypothetical:** If defeating a famous criminal could not appear on her résumé and no separate goal motivated the confrontation, she would not pursue the victory merely to prove that she was capable of winning. The formal record is an important part of why the accomplishment appeals to her.
+
+The distinction between enjoying a documented accomplishment and enjoying the public reputation created by that accomplishment is important. Both matter to her eventual characterization, but the precise developmental process by which résumé-oriented achievements became part of her broader identity management has not been definitively established.
+
+Her Navy service improved her basic living conditions through comfortable dormitory accommodation and good cafeteria food, but it did not make her rich. Her later preference for prestigious accomplishments should not simply be reduced to pursuit of wealth.
+
+For further established background and clearly marked developmental interpretations, see [Early Life and Entry into the Grand Navy](../early-life-and-navy-entry.md)
+
