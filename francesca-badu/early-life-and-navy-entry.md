@@ -47,10 +47,3 @@ Her entry into the Navy did not make her wealthy. The institution provided subst
 The Navy also exposed Francesca to a wider social environment. Unlike her relatively isolated rural life, it required her to encounter and interact with many people. It provided ranks, official records of accomplishments, and recognizable measures of achievement. These features later became relevant to the kind of public identity she pursued.
 
 **Her initial interest in the Captain's uniform must not be retroactively rewritten as a secret desire for status, heroism, wealth, or public admiration.** The later importance of her reputation does not mean that it was the reason she joined in the first place.
-
-## Related Documents
-
-- [Identity Development and Narcissistic Traits](psychology/identity-development-and-narcissistic-traits.md)
-- [Identity and Reputation Management](psychology/identity-and-reputation-management.md)
-- [Attachment and Relationships](psychology/attachment-and-relationships.md)
-- [Final-Antagonist Position and Perspectives](final-antagonist-position-and-perspectives.md)
