@@ -350,3 +350,13 @@ However, this does not make all of Francesca's choices optimal, infallible, or i
 She remains capable of directing her attention toward the wrong objective, overlooking relevant information, applying an existing principle inconsistently, and making choices affected by her emotional priorities.
 
 Her extraordinary intelligence describes her capabilities, not an automatic guarantee that every action she performs is the best conceivable action under every possible standard.
+
+## Lifelong Beauty and Unobserved Comparisons
+
+Francesca was already extraordinarily attractive throughout childhood and adolescence. Her interest in physical beauty did not emerge from having once been ugly, and she does not require reassurance that she is attractive.
+
+Her attractiveness can be informally illustrated by suggesting she may be among the world's ten most attractive individuals, but this is not an exact or objectively established ranking.
+
+Throughout her own experience, Francesca has never personally encountered someone she considers more attractive than herself. However, her experience does not encompass every person alive. In a setting without internet or social media, she cannot simply browse visual images of the global population to make such comparisons.
+
+She therefore acknowledges that people more attractive than her may exist. She is not inherently threatened by that possibility and can be curious to meet them, appreciate their beauty, and investigate characteristics she might want to develop in her own appearance.
