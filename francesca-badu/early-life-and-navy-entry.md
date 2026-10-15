@@ -2,7 +2,7 @@
 
 ## Scope
 
-This file documents additional author-established background concerning Francesca's upbringing and the circumstances of her entry into the Grand Navy. It describes her behavior and circumstances rather than proposing a clinical explanation for her adult personality. The psychological origin of some of her traits remains unspecified.
+This file documents additional author-established background concerning Francesca's upbringing and the circumstances of her entry into the Grand Navy, not directly shown or explored in the story. It describes her behavior and circumstances rather than proposing a clinical explanation for her adult personality. The psychological origin of some of her traits remains unspecified.
 
 ## Family and Economic Circumstances
 
@@ -12,7 +12,7 @@ Her parents were neither abusive nor exceptionally indulgent. They did not subje
 
 Francesca helped with agricultural work and sometimes lumber work. She was accustomed to having responsibilities at home, even though she did not particularly enjoy working.
 
-Her poor upbringing should not be treated as evidence that she was ashamed of her family, resented her parents, secretly desired social prestige, or developed her later personality through a specific traumatic experience. None of those explanations is established by the supplied childhood facts.
+But she enjoyed lazing around the countryside and sleeping and eating.
 
 ## Extraordinary Attractiveness Throughout Her Life
 
@@ -22,7 +22,7 @@ Her appearance is exceptional even by the standards of the wider world. Describi
 
 People could notice her beauty, but her childhood was not a life of general admiration, fame, wealth, or prestige. Outside of her appearance, there was little about her difficult circumstances that other people envied.
 
-The setting did not provide internet access, social media, or online collections of edited photographs. Francesca had not personally encountered anyone she considered more attractive than herself. However, she recognized that her own experience covered only a small portion of the world. She regarded it as entirely possible that more attractive individuals existed elsewhere.
+Francesca had not personally encountered anyone she considered more attractive than herself. However, she recognized that her own experience covered only a small portion of the world. She regarded it as entirely possible that more attractive individuals existed elsewhere.
 
 This possibility did not inherently upset her. She could be curious to meet someone more attractive, examine what made them attractive, and consider whether she could improve her own appearance. Her acknowledgment of possible superior attractiveness was not an admission of insecurity about being beautiful.
 
@@ -32,7 +32,7 @@ Francesca spent much of her early life in a rural environment and did not regula
 
 As a child, much of her immediate motivation was practical and simple: finish the work her parents needed her to do, then rest or enjoy doing nothing. By her teenage years, she became particularly reluctant to work. She might remain in bed or sleep for extended periods, helping when asked but otherwise preferring inactivity.
 
-This inactivity was not automatically depression, hidden ambition, a response to parental mistreatment, or frustration over not being famous. She could simply be content resting and avoiding unnecessary work.
+She was simply content resting and avoiding unnecessary work.
 
 Her longstanding emotional indifference toward other people's welfare was already characteristic of her for as much of her life as has been established. **The exact point at which that emotional disposition originated is unknown.** It should not be assigned a fabricated infancy, childhood, or adolescent origin.
 
@@ -45,5 +45,3 @@ One of her initial reasons for wanting to advance was unusually mundane: she dis
 Her entry into the Navy did not make her wealthy. The institution provided substantially more comfortable living conditions, including a good dormitory and cafeteria food, but this was closer to receiving decent accommodation and meals at a residential institution than becoming rich.
 
 The Navy also exposed Francesca to a wider social environment. Unlike her relatively isolated rural life, it required her to encounter and interact with many people. It provided ranks, official records of accomplishments, and recognizable measures of achievement. These features later became relevant to the kind of public identity she pursued.
-
-**Her initial interest in the Captain's uniform must not be retroactively rewritten as a secret desire for status, heroism, wealth, or public admiration.** The later importance of her reputation does not mean that it was the reason she joined in the first place.
