@@ -1,7 +1,14 @@
 # Timeline of Francesca through the years
 
-## Under 17, before joining Navy
-[Life before Navy](./early-life-and-navy-entry.md)
+## Childhood and Early Adolescence — Before the Grand Navy
+
+Francesca grows up in a very poor rural working household. She is already exceptionally attractive, cannot attend school because of family circumstances, and helps her parents with farming and occasional lumber work. She spends much of her free time resting and does not actively pursue a public identity. Her emotional indifference toward others is longstanding, but its precise developmental origin is unknown.
+
+## Approximately Seventeen to Eighteen — Entry into the Grand Navy
+
+Francesca joins the Grand Navy while still comparatively weak. She initially wants to advance partly because she dislikes the basic uniform and prefers the Captain's uniform. The Navy provides a comfortable dormitory and decent cafeteria meals, not great wealth. Its official rank and accomplishment system later becomes important to her interest in recorded achievements and public reputation.
+
+For details, see [Early Life and Entry into the Grand Navy](early-life-and-navy-entry.md)
 
 ## 18 years old
 
