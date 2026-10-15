@@ -118,6 +118,14 @@ The resulting loss can produce extraordinary emotional distress.
 
 Her grief does not necessarily arise from concern about what the deceased person experienced while dying.
 
-Rather, she suffers because someone whose continued presence she intensely valued is permanently gone.
+## Francesca's Relationship With Her Parents
 
-Consequently, Francesca can experience profound grief while remaining consistent with her broader emotional indifference toward suffering.
+Francesca's parents were ordinary, financially struggling working people who raised her in the countryside. They did not abuse or otherwise mistreat her, and their relationship with her was not defined by hatred, estrangement, or an exceptional degree of parental indulgence.
+
+During childhood and adolescence, Francesca could talk with her parents, eat with them at the dinner table, help with agricultural and other household work, and genuinely enjoy their company. She did not treat them like strangers. Her participation in these ordinary family interactions was not necessarily a calculated performance.
+
+However, **enjoying their company did not imply a correspondingly deep concern for their well-being**. Francesca could appreciate spending time with them while assigning little intrinsic emotional importance to what happened to them outside those interactions.
+
+After leaving home, she did not feel a strong need to visit them or maintain close contact. This was not caused by resentment, hatred, or a desire to punish them. She simply did not care enough to make seeking them out a personal priority.
+
+Her parents remain alive during the final period of the main story. They know about Francesca's public role in the worldwide conflict, and the war could threaten their lives. Francesca does not experience meaningful concern over the possibility of their deaths.
