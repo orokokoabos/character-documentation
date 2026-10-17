@@ -78,6 +78,10 @@ He believes he is watching the future of humanity disappear in front of him. He 
 
 He screams/yells in anger while crying, his speech strained by sobs and increasingly hoarse, as though his voice is giving out. He threatens to pursue and "follow you across the ends of the world" to kill them. Kill the escaping fighters even if he has to chase them across the world. He's in rage, terror, disgust, and desperation simultaneously.
 
+Basically what he's thinking is this: If the demi humans don't die, the disease will end all of humanity. The blueprint and weapon is the current best chance at exterminating the demi humans, none of them individually deserve it, and I care for their lives, but the lives of all of humanity matters more. You running away with the possible key to killing all the demi humans, which will prevent humanity from extinction, means you're preventing the survival of humanity, without this weapon, the demi humans may live, and humanity will end. I know you probably do not see it the way I see it, I don't think you WANT humanity to end, but if you do this, humanity will end, and I cannot let that happen. Why can't you see it my way, and see that this is the best chance humanity has at survival, I want to save humanity why can't you understand?
+
+He isn't thinking logically like we just said, but this is an explanation from the authors of what he's thinking. His actual thoughts are much more messy than this but this is the core idea and rationalization.
+
 In terms of presentation, there's no music, the fighters are about to board the ship at the dock, and Leon's raw, breaking cries carry through the surrounding quiet.
 
 In his desperation, Leon forces himself forward by tearing his own body off the impaling spike rather than carefully removing it because he has no time. The movement destroys a substantial portion of his abdomen—roughly a third of the abdominal area and leaves him catastrophically wounded.
