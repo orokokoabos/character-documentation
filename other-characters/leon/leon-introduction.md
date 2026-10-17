@@ -373,6 +373,9 @@ He genuinely believes that he has finally found a reason to live meaningfully.
 
 Even when he is alone, without anyone watching him or praising his accomplishments, this realization can move him to tears.
 
+### Other mentions of Leon
+This is for documents where Leon is very relevant, but we haven't included a link to every document Leon is in: [Biological Weapon Arc](../../arcs/leon-blueprint-pursuit-and-shipwreck.md)
+
 His emotional response is therefore not a performance intended to impress his followers or reinforce his public image.
 
 It is a genuine private reaction.
