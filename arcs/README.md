@@ -19,3 +19,14 @@ These supporting character documents may need to reference events described in t
 For this reason, the /arcs directory is located at the repository root rather than inside /francesca-badu.
 
 This organizational choice does not change the repository's primary focus. Arc documentation remains predominantly centered on Francesca Badu, and other characters and events are documented primarily to the extent that they help explain or contextualize her.
+
+
+## Order of arcs
+
+Remember this does not include all the arcs, only arcs relevant around Francesca and some minor arcs we jsut wanted to include, so this order only orders the arcs we decided to include, there can be arcs between them that you never know because we just never included them in the doc.
+
+[TTC](./TTC.md)
+[Calm Before The Storm](./calm-before-the-storm.md)
+[Glyph vs The Grand Navy](./glyph-vs-navy.md)
+[Post G Rank FFA](./post-g-rank-free-for-all.md)
+
