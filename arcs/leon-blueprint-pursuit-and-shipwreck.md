@@ -148,7 +148,7 @@ Leon and the Anti-Demi-Human Coalition have **already committed atrocities and w
 
 Earlier in the war, however, Leon had refrained from authorizing certain particularly extreme methods because of their enormous costs and consequences, including the sacrifice of his own personnel. The World Government and its allies have also committed war crimes during the desperate worldwide conflict, but that does not mean either side has used every conceivable atrocity.
 
-After his recovery, Leon authorizes and encourages the immediate use of **any means he believes necessary** to advance extermination, including methods he previously withheld.
+After his recovery, Leon authorizes and encourages the immediate use of **any means he believes necessary** to advance extermination, including methods he previously withheld. He becomes increasingly more desperate, especially since losing the blueprint to the weapon which could've saved humanity, he gets more and more desperate and he needs to end the demi humans to save humanity, every day he can't sleep thinking about everybody who might die, and there are options that are as good as the bioweapon, but it was a boundary he still refused to cross. But after losing the weapon he becomes so desperate and terrified for humanity's survival that he decides he needs to cross the boundary, and the longer he waits to do it, the more will die in war, and humanity will end in the end.
 
 ### Example: Mass-Sacrifice Mage Rituals
 
