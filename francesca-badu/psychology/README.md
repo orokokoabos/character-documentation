@@ -60,3 +60,5 @@ Explore the different aspects of Francesca's psychology through the following do
 8. [Social Behavior and Strategic Humility](social-behavior-and-strategic-humility.md)
 9. [The Ant Analogy](the-ant-analogy.md)
 10. [Hypothetical Divine Coercion and Francesca's Response](hypothetical-divine-coercion-and-francescas-response.md)
+11. [Authorial Context](authorial-context.md)
+12. [Additional Material](additional-material.md)
