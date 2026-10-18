@@ -415,3 +415,45 @@ Claims of narrative superiority originating from independent fictional cosmologi
 Crossovers may establish shared interaction rules, but the existence of a fictional hierarchy in one independent work does not automatically make every other fictional work subordinate to it.
 
 The Researcher's fundamental sovereignty remains intrinsic to her own franchise rather than dependent upon recognition by external fictional cosmologies.
+
+## Voluntary Human Manifestation and Restricted Experience
+
+Despite attaining absolute omnipotence, omniscience, and independence from temporal succession, The Researcher retains an interest in experiencing existence from a human perspective.
+
+She particularly enjoys manifesting in a form resembling her original historical human self.
+
+When doing so, she may voluntarily restrict the knowledge available to her manifested form and allow it to experience time as an ordinary succession of events.
+
+These restrictions are deliberately imposed to recreate aspects of the human experience that her completed existence would not otherwise require.
+
+Crucially, her manifested form and her true existence are distinct. Her fundamental existence remains fully unrestricted regardless of the limitations imposed upon a manifestation.
+
+She enjoys manifesting in a form resembling her historical human appearance.
+
+This allows her to experience existence through a perspective closer to that of the person she once was.
+
+Her preference for this form is personal rather than necessary.
+
+Voluntary Limitations on Knowledge
+
+The Researcher may deliberately restrict the knowledge accessible to her human manifestation.
+
+For example, the manifestation may encounter information it does not presently know, experience curiosity, or discover something through observation.
+
+This does not mean The Researcher's true existence has lost knowledge.
+
+Her absolute omniscience remains intact.
+
+The restriction applies specifically to the manifestation's accessible awareness and experience.
+
+Consequently, the manifestation may experience uncertainty even though The Researcher's fundamental existence remains completely omniscient.
+
+Experiencing Time Sequentially
+
+The Researcher may also allow her human manifestation to experience time sequentially.
+
+From the manifestation's perspective, events can unfold through a recognizable progression of past, present, and future.
+
+However, The Researcher's true existence remains independent of temporal succession.
+
+she is voluntarily experiencing existence through a restricted perspective while her true existence remains unaffected.
