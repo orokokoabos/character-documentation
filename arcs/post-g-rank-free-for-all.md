@@ -358,6 +358,8 @@ He believes the extermination of demi-humans is required to prevent an even grea
 
 Consequently, he continues his campaign despite his emotional reaction.
 
+After the campaign he doesn't meet anybody and they don't know where he went? Leon went to his home and locked it, not responding to people knocking, he stays in the basement. He thinks about what just happened and laughs, but he's laughing to force himself to feel happy about what he just did so he can continue, his logical mind is telling him it needs to continue but his emotions can't agree and he ends up making himself cry again despite trying to laugh it away. He stays in the basement with no food and starving for a week, his lack of hydration and food and deteriorating in this past week, combined with his disgust and flashbacks to the extermination, and the fact that he did it makes him throw up a few times. He considers suiciding multiple times and on the last day in the basement he is super close to suiciding, his neck is already bleeding, and then he remembers the opportunity Francesca gave him, and that he has to put his emotions away, and SAVE HUMANITY.
+
 As Leon becomes involved in further operations and repeatedly encounters similar violence, his sensitivity to witnessing it gradually diminishes.
 
 What initially produces an overwhelming emotional response becomes increasingly familiar.
