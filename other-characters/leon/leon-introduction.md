@@ -373,9 +373,6 @@ He genuinely believes that he has finally found a reason to live meaningfully.
 
 Even when he is alone, without anyone watching him or praising his accomplishments, this realization can move him to tears.
 
-### Other mentions of Leon
-This is for documents where Leon is very relevant, but we haven't included a link to every document Leon is in: [Biological Weapon Arc](../../arcs/leon-blueprint-pursuit-and-shipwreck.md)
-
 His emotional response is therefore not a performance intended to impress his followers or reinforce his public image.
 
 It is a genuine private reaction.
@@ -383,3 +380,80 @@ It is a genuine private reaction.
 **For Leon, Francesca is not merely someone he admires. She is the person whose actions made it possible for him to escape what he regarded as a meaningless, powerless existence and dedicate himself to what he believes is humanity's salvation.**
 
 **Leon is not simply a subordinate acting under Francesca's direction. He is an independent ideological actor who constructs a movement around an idealized interpretation of someone whose actual priorities are fundamentally different from his own.**
+
+## Leon's Understanding of His Opponents and His Desire for Peace
+
+The World Leon Wants to Change
+
+An important aspect of Leon's motivation is his desire to end the prolonged suffering, instability, and conflict surrounding the relationship between humans and demi-humans.
+
+For decades, the world has experienced severe tensions between the two populations. Discrimination, persecution, violent confrontations, and occasional genocides have contributed to an increasingly unstable international environment.
+
+Different nations, organizations, and populations hold opposing positions regarding the demi-human disease and how society should respond to it.
+
+These disagreements have repeatedly produced violence and political instability. The international situation has become so tense that the possibility of a major worldwide war remains a constant concern.
+
+For many people, this is a world characterized by fear, uncertainty, hostility, and suffering rather than lasting peace.
+
+Leon genuinely does not want this situation to continue.
+
+He wants humanity to have a future free from the threat of extinction, the ongoing conflict surrounding the disease, and the widespread fear and suffering associated with it.
+
+From his perspective, the continued existence of demi-humans and the incurable disease they transmit makes such a future impossible.
+
+He therefore believes that exterminating demi-humans, despite the enormous suffering and loss of life it would cause, is necessary to prevent an even greater catastrophe and ultimately create a peaceful future for humanity.
+
+This is Leon's sincere conviction, not an objectively established conclusion about the only possible solution.
+
+His Understanding of Those Who Oppose Him
+
+Leon does not inherently regard the people opposing his extermination campaign as evil or malicious.
+
+He understands that many of them are motivated by compassion, concern for innocent lives, and a genuine desire to prevent suffering.
+
+He recognizes these motivations because he shares the underlying desire to protect people from suffering.
+
+Leon himself does not enjoy inflicting suffering. He does not believe that individual demi-humans necessarily deserve to die, nor does he require personal hatred toward them to justify his actions.
+
+He nevertheless believes that allowing demi-humans to continue existing will eventually result in humanity's extinction.
+
+Consequently, he interprets the suffering caused by his extermination campaign as a terrible but necessary sacrifice to prevent what he believes would be an incomparably greater catastrophe.
+
+This distinction is important to understanding his attitude toward his enemies.
+
+Leon does not necessarily blame them for resisting him.
+
+He understands why individuals who witness the extermination of innocent people would attempt to intervene. He recognizes that they are acting according to their own understanding of what is right and necessary.
+
+However, he believes their understanding of the larger situation is mistaken.
+
+From his perspective, they are attempting to prevent immediate suffering without recognizing the eventual catastrophe that he believes their resistance will permit.
+
+"Why Can't They Understand Me?"
+
+One of Leon's recurring emotional struggles is his inability to make others understand what he believes he is trying to accomplish.
+
+His frustration does not primarily arise from believing that his opponents are evil or that they deliberately want humanity to become extinct.
+
+Instead, he struggles with the belief that people who also want to prevent suffering cannot recognize what he considers the necessary means of preventing humanity's extinction.
+
+His underlying question is not simply why people oppose him, but why they cannot understand his reasoning.
+
+He believes that if they understood the future he fears and the consequences he believes inaction will produce, they might recognize the necessity of his campaign.
+
+He does not necessarily expect them to agree with him, and he understands their reasons for resisting. Nevertheless, their continued opposition can cause him intense frustration, desperation, and emotional distress.
+
+To Leon, every delay represents additional time during which humanity remains threatened by the disease, while the ongoing conflict continues to produce suffering.
+
+He believes that abandoning his campaign simply because others oppose it would mean allowing the catastrophe he is trying to prevent.
+
+Consequently, he remains determined to continue even when confronted by widespread resistance.
+
+He imagines a future in which humanity no longer has to fear the demi-human disease, where the conflicts surrounding it have ended, and where future generations can live in peace.
+
+he believes that temporary suffering on an enormous scale is necessary to prevent even greater suffering and humanity's eventual extinction.
+
+### Other mentions of Leon
+This is for documents where Leon is very relevant, but we haven't included a link to every document Leon is in: [Biological Weapon Arc](../../arcs/leon-blueprint-pursuit-and-shipwreck.md)
+
+
