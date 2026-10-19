@@ -298,3 +298,7 @@ The responses described in this document are established by the authors as Franc
 (We are telling you this is what she will do)
 
 They are not speculative psychological predictions about a real human being with superficially similar characteristics.
+
+---
+
+**Basically, this is just pure hatred. She understands and knows she will not win, yet she will do anything possivle to make god feel anything, because of pure hatred and the need for god to suffer because of what he does to her**
