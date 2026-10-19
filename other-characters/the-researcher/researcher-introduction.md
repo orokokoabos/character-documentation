@@ -91,3 +91,5 @@ More detailed information concerning The Researcher's physical appearance, histo
 [Appearance](./researcher-appearance.md)
 [History](./researcher-history.md)
 [Abilities](./researcher-abilities.md)
+
+The Researcher is also responsible for the entire franchise's magic system: [Magic System](../../Arms,%20Equipment%20&%20Abilities/magic/magic-system.md)
