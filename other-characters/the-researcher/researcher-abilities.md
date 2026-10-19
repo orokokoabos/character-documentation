@@ -6,7 +6,7 @@
 
 Although originally born as an ordinary human, her development eventually surpassed the fundamental conditions governing existence, causality, possibility, reality, and metaphysical authority.
 
-Upon completing her ascension, The Researcher restructured the foundations of creation, establishing herself as the ultimate ontological source of everything belonging to the franchise.
+Upon completing her ascension, The Researcher restructured the foundations of creation, establishing herself as the ultimate ontological source of everything.
 
 Her current nature is not sustained by the technological mechanisms responsible for her ascension. Nor is it dependent upon the continuation of her original universe, history, or any other external condition.
 
@@ -60,9 +60,9 @@ The Researcher may nevertheless interact with temporal systems or manifest withi
 
 ## Absolute Ontological Sovereignty
 
-The Researcher is the ultimate ontological foundation of all creation belonging to the franchise.
+The Researcher is the ultimate ontological foundation of all creation.
 
-Upon completing her ascension, she restructured the principles governing existence and origination such that everything within the franchise ultimately derives its existence and authority from her.
+Upon completing her ascension, she restructured the principles governing existence and origination such that everything ultimately derives its existence and authority from her.
 
 This includes realities, dimensions, entities, concepts, laws, histories, temporal structures, and the original cosmos in which she was born.
 
@@ -228,15 +228,9 @@ An entity introduced into the franchise cannot independently obtain an ontologic
 
 ## Awareness of Independent Fictional Works
 
-The Researcher is aware of independently authored fictional works, including their characters, settings, histories, and established cosmologies.
+The Researcher is aware of independently authored fictional works IN REAL LIFE (not in fiction), including their characters, settings, histories, and established cosmologies. She knows what the SCP Foundation is, she knows Goku, and has read about The One Above All, and more.
 
-She recognizes these works as distinct from her own franchise.
-
-Her awareness does not establish shared continuity, authorship, ownership, or jurisdiction over their contents.
-
-She does not possess editorial authority over independently authored franchises, nor does knowledge of their characters constitute interaction with them.
-
-Similarly, the fictional authority claimed by entities from independent works does not automatically establish jurisdiction over The Researcher's franchise.
+She recognizes these works as distinct from her own franchise and that the fictional authority claimed by entities from independent works does not automatically establish jurisdiction over The Researcher's franchise.
 
 The Researcher has no interest in competing with other fictional entities or establishing superiority over their respective cosmologies.
 
@@ -404,18 +398,6 @@ Furthermore, her Absolute Means Realization does not require her to occupy a sup
 
 These properties operate independently of conventional comparisons of narrative superiority.
 
-### Independently Authored Fiction
-
-The Researcher's canonical awareness of other fictional works does not establish ownership, authorship, shared continuity, or editorial jurisdiction over them.
-
-Likewise, an entity's authority within another independently authored fictional work does not automatically grant that entity jurisdiction over The Researcher's franchise.
-
-Claims of narrative superiority originating from independent fictional cosmologies do not, by themselves, establish involuntary control over her completed identity.
-
-Crossovers may establish shared interaction rules, but the existence of a fictional hierarchy in one independent work does not automatically make every other fictional work subordinate to it.
-
-The Researcher's fundamental sovereignty remains intrinsic to her own franchise rather than dependent upon recognition by external fictional cosmologies.
-
 ## Voluntary Human Manifestation and Restricted Experience
 
 Despite attaining absolute omnipotence, omniscience, and independence from temporal succession, The Researcher retains an interest in experiencing existence from a human perspective.
@@ -457,3 +439,7 @@ From the manifestation's perspective, events can unfold through a recognizable p
 However, The Researcher's true existence remains independent of temporal succession.
 
 she is voluntarily experiencing existence through a restricted perspective while her true existence remains unaffected.
+
+## Automatic Conflict Resolution
+
+If there is any logical conflict (aside from when absolute means realization is involved), the conflict / contradictions are automatically resolved in favor of The Researcher. For example,  The Researcher is independent of any narrative, so imagine you manage to contain her in a narrative (which wouldn't be able to happen. this is a hypothetical). If she is contained in a narrative, but she is independent of any narrative, that is a contradiction / conflict, therefore it causes the narrative trying to contain her to destroy itself completely,  
