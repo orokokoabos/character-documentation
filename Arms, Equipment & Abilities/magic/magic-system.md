@@ -26,6 +26,8 @@ It contains an extraordinarily large quantity of particles whose properties diff
 
 Although these particles are conventionally called mana, that is not necessarily their original or technically accurate designation.
 
+The sphere is an experiment being run by The Researcher **(in her manifested human form)**.
+
 ### Incompressibility and Internal Pressure
 
 The particles are described as incompressible.
@@ -54,13 +56,13 @@ The Researcher deliberately prevents this condition.
 
 ### Releasing Particles
 
-The sphere does not automatically regulate itself.
+The sphere automatically regulates itself.
 
-The Researcher manages the system by directing particles away from the sphere and into other locations.
+There is a system that manages it by directing particles away from the sphere and into other locations.
 
 This reduces the quantity of particles currently contained within it.
 
-One such release was responsible for triggering the expansion and formation of the universe in which the main narrative takes place.
+One such release was responsible for triggering the expansion and formation of the universe in which the main series takes place.
 
 The universe's creation is therefore connected to the Researcher's management of the particles.
 
@@ -68,21 +70,7 @@ However, the universe is not the only destination for mana.
 
 Particles are distributed to numerous locations.
 
-## 2. The Researcher's Role
-
-The system is associated with **The Researcher**, a woman who originated from an earlier human civilization.
-
-She developed capabilities through technological advancement that far exceeded those of ordinary civilizations.
-
-Her relationship with the sphere is experimental.
-
-She oversees the distribution and return of its particles.
-
-The precise motivation for creating or maintaining this experiment has not been explained.
-
-The Researcher's present nature, authority, and metaphysical properties are documented separately in her character files.
-
-**The older description of the experiment does not supersede the Researcher's more recent character documentation.**
+There are countless realities, dimensions, universes everywhere, and these particles appear everywhere throughout them. However, in the main series, again, no characters know how the magic really works, nobody knows these particles exist, nobody knows the researcher exists or the sphere exists, they don't even know that their are other universes. The story also never explains the magic, and doesn't even hint at a possibility of other universes, the story is kept strictly on Earth and that's it. The only exception is in the sequel, during and after Francesca's fight with Demon King Malu, she discovers how the magic system works, that's the only time a character in the entire series figures out how magic really works and it's the first time the story explains it ever.
 
 ### Knowledge of the Sphere
 
@@ -96,7 +84,7 @@ The intended distinction is between what the audience can learn through external
 
 Even characters who correctly question conventional theories of magic do not necessarily know about the sphere, the experiment, or the Researcher.
 
-## 3. Properties of Mana Particles
+## 2. Properties of Mana Particles
 
 Mana particles possess extraordinary properties that distinguish them from conventional matter.
 
@@ -115,6 +103,10 @@ Their intelligence does not necessarily involve thoughts, personalities, emotion
 Instead, they possess enough awareness or discrimination to carry out complicated functions that cannot be reduced to completely rigid, simplistic rules.
 
 This characteristic is especially important for certain supernatural weapons.
+
+Because the particles originate from The Researcher and are from a higher plane of existence, they also possess extraordinary capabilities, such as altering reality itself. However NOBODY in the series figures this out, so nobody ends up with a level of power that could alter reality. If you understood how powerful the particles really were, then you could exploit it and become so powerful you could alter reality, the power is literally at the hands of everybody in the main series... But nobody in the world knows how the particles work, so all it's uses are more like conventional magic, nobody has achieved anything that powerful such as altering reality, because nobody knows how the particles really work, they just assume it's just magic and that's all, and don't know how much power they really hold at their hands. 
+
+The only person to ever achieve something on the scale of altering reality is Francesca, but that is in the sequel, before the sequel, in the main story, she has no clue how it works also. But in the sequel Francesca discovers how the particles work, and exploits them to use abilities that can alter reality itself.
 
 ## 4. Requesting Mana
 
