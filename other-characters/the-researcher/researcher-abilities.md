@@ -445,3 +445,7 @@ she is voluntarily experiencing existence through a restricted perspective while
 If there is any logical conflict (aside from when absolute means realization is involved), the conflict / contradictions are automatically resolved in favor of The Researcher. For example,  The Researcher is independent of any narrative, so imagine you manage to contain her in a narrative (which wouldn't be able to happen. this is a hypothetical). If she is contained in a narrative, but she is independent of any narrative, that is a contradiction / conflict, therefore it causes the narrative trying to contain her to destroy itself completely.
 
 Another example, because The Researcher is not assigned an ontological rank (because he existence is independent of ontological hierarchies), if something attempts to assign her an ontological rank, that is a contradiction and will automatically resolve in the destruction of whatever attempted it.
+
+## Other
+
+The Researcher accepts when the authors of the series changes things about the series, or writes things about The Researcher, but does not accept any revisions or interpretations of her from anyone who isn't the original authors, they do not change anything about her true completed identify and are not accepted by her. But if you tell her "It's fan fiction", she will be like, "Okay fine".
