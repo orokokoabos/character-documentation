@@ -1,13 +1,5 @@
 # Hypothetical Divine Coercion (Retaliation Against Humanity)
 
-> **NON-CANONICAL PSYCHOLOGICAL THOUGHT EXPERIMENT — NOT AN EVENT IN THE STORY**
->
-> Everything described in this document is hypothetical. The situation **never occurs in the series**, is **not planned to occur**, and is not evidence that its events, its proposed deity, or its outcomes exist in the story's world. The Christian God is used only as a convenient example of an omnipotent being for the thought experiment; Christianity and this particular deity are not being inserted into the setting.
->
-> **This is the same Francesca Badu, not an alternate personality, a rewritten version, or a transformation into a different character.** The premise is that the already-established Francesca is exposed to circumstances the actual story never gives her. The purpose is to illustrate how her *existing* values, emotions, intellectual habits, and lack of intrinsic concern for suffering would operate if those circumstances arose. The scenario introduces new information, restrictions, emotional reactions, and practical objectives, **not new foundational psychological traits**.
->
-> The scenario includes discussion of mass murder, severe abuse, and suicide as elements of fictional character analysis. Its purpose is explanatory, not to endorse the character's choices or to describe methods of violence.
-
 **While this is hypothetical situation, this is exactly how the canonial Francesca will respond in this situation. 
 
 That is important.
@@ -16,7 +8,12 @@ A situation like this will never happen in this story, therefore you would never
 
 So we create this hypothetical situation in order to show how the canonically Francesca, with her established psychology, would respond if this situation ever happened in the real story.
 
-So this is still the real Francesca's psychology, nothing has changed about Francesca, this is the same as canonical Francesca**
+So this is still the real Francesca's psychology, nothing has changed about Francesca, this is the same as canonical Francesca
+
+The Christian God is used only as a convenient example of an omnipotent being for the thought experiment; Christianity and this particular deity are not being inserted into the setting.
+
+This is a hypothetical situation and does not happen in the story.
+**
 
 ## 1. Purpose and interpretive scope
 
