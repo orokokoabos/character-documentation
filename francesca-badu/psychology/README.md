@@ -62,3 +62,10 @@ Explore the different aspects of Francesca's psychology through the following do
 10. [Hypothetical Divine Coercion and Francesca's Response](hypothetical-divine-coercion-and-francescas-response.md)
 11. [Authorial Context](authorial-context.md)
 12. [Additional Material](additional-material.md)
+
+Hypotehicals:
+The Ant Anology contains a hypothetical:
+[The Ant Analogy](the-ant-analogy.md)
+and the hypothetical god situation:
+[Hypothetical Divine Coercion and Francesca's Response](hypothetical-divine-coercion-and-francescas-response.md)
+why these hypotheticals are important? Because imagine an evil person, if he is not given the chance or situation to commit evil, he may not commit evil, does this make him less evil psychologically? No. the reason he didnt commit evil is not because he is not evil, but because he was no given a situation or chance to display how evil he is. This is what the hypotheticals aim to solve. In the story, Francesca is bad, but, she is not given every opportunity to show how bad she is. That makes you think "oh she didnt do this, so she isnt that bad". which is wrong. The reason she did not do something bad, is not because shes good, but because she was no given an opportunity to show how bad she really is. So these hypotehtivals are very important, because they show how Frnacesca would act given these situations. Because these situations never happen in the story, so you never seen it, which makes you think "oh Francesca never does that so she isnt that bad". Which is wrong. the reason she doesnt do it, is because THERE IS NO REASON TO ADD A SITUATION LIKE THAT TO THE STORY, so the character is never given a chance to show what they will truly do. So these hypotheticals are important in showing you what we couldn't show you in the series, they show you how the charavter will act in the right situation, because these situations never happen in the real story.
