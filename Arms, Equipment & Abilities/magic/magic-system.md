@@ -272,6 +272,8 @@ Earth is only one of these outlets.
 
 The use of magic by living beings is therefore part of a much larger process of particle distribution and return.
 
+Basically everybody using magic is just part of The Researcher's hobby experiment.
+
 ## 11. Magical Objects and Stored Energy
 
 Not every magical item operates in exactly the same manner.
@@ -279,10 +281,6 @@ Not every magical item operates in exactly the same manner.
 Some equipment uses magic channeled by its wielder.
 
 Other equipment draws upon magical energy already stored within a material or device.
-
-For example, [Accialite](achilite.md) can absorb and retain magical energy, allowing it to power equipment such as [Accialite Powered Guns](guns.md).
-
-The detailed relationship between stored magical energy and the eventual return of individual mana particles still requires clarification.
 
 ### Self-Sustaining Magical Contracts
 
@@ -351,22 +349,3 @@ Its detailed mechanics are documented in the weapon bag's entry.
 The important principle is that the mana particles themselves evaluate the encountered phenomenon and determine whether it qualifies for nullification.
 
 The ability is therefore not simply a physical cutting or destructive effect.
-
-## Documentation Notes
-
-This document preserves the core mechanics described in an older explanation of the setting.
-
-The following subjects require additional confirmation:
-
-- The exact physical and metaphysical behavior of the mana sphere.
-- The consequences of reaching complete capacity.
-- The Researcher's current relationship to the historical experiment.
-- The detailed rules governing requests that are rejected.
-- The precise limits of intelligent particle classification.
-- The relationship between persistent magical energy storage and particle return.
-- The detailed operation of self-sustaining magical contracts.
-- The broader limitations of spell reversal.
-
-The Researcher's present characterization and Francesca's end-game abilities should be governed by their separately updated documentation rather than automatically importing every detail from the older explanation.
-
-**The central established concept is that magic consists of externally supplied particles that living beings unknowingly request and temporarily shape, while the Researcher manages their distribution and return as part of an experiment beyond the ordinary characters' knowledge.**
