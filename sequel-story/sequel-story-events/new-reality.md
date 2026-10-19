@@ -26,4 +26,6 @@ Or if you are a gay male, and you don't find women attractive because you are at
 
 If Francesca walks by and waves to a couple, the couple who has been married and deeply in love for decades may literally divorce, just for a chance to get any attention Francesca because she's so attractive nobody can resist.
 
+She also rewrites everybody's internal values to favor attractiveness the most. So everybidy judges each other's worth, rights, and etc by how attractive they are, and you judge people by attractiveness, Francesca males this an objective fact in reality. Now, people automatically judge each other as human beings PRIMARILY (but not exclusively) by attractiveness. So for example kindness and status and etc can still be used to judge, but attractiveness takes priority and is the primary factor
+
 That is basically what Francesca uses her power to do.
