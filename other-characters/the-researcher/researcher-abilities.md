@@ -446,6 +446,6 @@ If there is any logical conflict (aside from when absolute means realization is 
 
 Another example, because The Researcher is not assigned an ontological rank (because he existence is independent of ontological hierarchies), if something attempts to assign her an ontological rank, that is a contradiction and will automatically resolve in the destruction of whatever attempted it.
 
-## Other
+## Revisions by real life authors or people
 
-The Researcher accepts when the authors of the series changes things about the series, or writes things about The Researcher, but does not accept any revisions or interpretations of her from anyone who isn't the original authors, they do not change anything about her true completed identify and are not accepted by her. But if you tell her "It's fan fiction", she will be like, "Okay fine".
+The Researcher accepts when the authors of the series changes things about the series or The Researcher, however she does not accept any revisions or interpretations of her from anyone who isn't the original authors, they cannot change anything about her true completed identify because those revisions are not accepted by her. She's okay with fan fiction though.
