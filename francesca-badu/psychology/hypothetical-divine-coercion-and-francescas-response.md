@@ -8,6 +8,16 @@
 >
 > The scenario includes discussion of mass murder, severe abuse, and suicide as elements of fictional character analysis. Its purpose is explanatory, not to endorse the character's choices or to describe methods of violence.
 
+**While this is hypothetical situation, this is exactly how the canonial Francesca will respond in this situation. 
+
+That is important.
+
+A situation like this will never happen in this story, therefore you would never know Francesca would act like this.
+
+So we create this hypothetical situation in order to show how the canonically Francesca, with her established psychology, would respond if this situation ever happened in the real story.
+
+So this is still the real Francesca's psychology, nothing has changed about Francesca, this is the same as canonical Francesca**
+
 ## 1. Purpose and interpretive scope
 
 Francesca's ordinary behavior does not reveal every action she would be willing to take in every conceivable situation. She may spend long periods being pleasant, helpful, socially considerate, or simply uninterested in other people's suffering. None of those observations means that she is psychologically incapable of intense hatred, retaliation, or deliberately seeking suffering when suffering becomes useful to something she values.
