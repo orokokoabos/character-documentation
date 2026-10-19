@@ -14,7 +14,7 @@ This process is the underlying basis of magic across different species and civil
 
 Despite differences in appearance, terminology, religious interpretation, and methods of training, the underlying magical resource is the same.
 
-**This explanation represents information available through external lore rather than knowledge possessed by ordinary characters within the main story.**
+**This explanation represents information available through external lore rather than knowledge possessed by ordinary characters within the main story. Nobody in the story knows how magic works, nobody knows the Researcher exists, nobody knows how mana truly works, and it is never explained in the story. Information about the true "behind the scenes" of the magic system is only available if you read supplmentery material or search for it online, because it is never explained in the story. The only person who canonically figures out and understands the mana system is Francesca, but that only happens in the sequel story, in the main story she also has no clue how the mana system truly works.**
 
 ## 1. The Mana Sphere
 
