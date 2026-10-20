@@ -92,20 +92,24 @@ Although The Researcher was historically born within a universe that preceded he
 
 Her human origin remains historically true. However, it no longer determines, sustains, or limits her completed state.
 
-## Current Existence
+## The Final Ascension
 
-Following her ascension, The Researcher possesses complete awareness of past, present, and future without experiencing them as successive events.
+The Researcher's technological advancement eventually culminated in her attainment of an absolute state.
 
-Her original history, including humanity's destruction, the deaths of the surviving population, and her own technological development, is comprehended in its entirety.
+Before this transformation, she was genuinely an ordinary, contingent human. Her knowledge, abilities, and existence were limited by the conditions of the original cosmos. Her technological development and eventual ascension were real events, not manifestations of an already-existing necessary being.
 
-She no longer depends upon the technological mechanisms that originally enabled her transformation.
+Through her technological ascension, she gained the capacity to restructure the foundational principles governing existence, causality, possibility, and creation itself.
 
-The Researcher subsequently established numerous realities, including the reality containing the franchise's main narrative.
+However, her ascension and her final rewriting of existence were distinct events. After attaining this extraordinary power, The Researcher performed a further act: she retroactively rewrote existence itself.
 
-The Earth inhabited by the main cast is not the original Earth.
+This rewrite established her completed fundamental identity as necessarily existent, ungrounded, and independent of the conditions that had originally enabled her transformation. In the resulting ontology, her completed identity had always existed necessarily, without depending on her birth, technology, original universe, or ascension.
 
-Its inhabitants developed independently under environmental and evolutionary conditions that happened to produce organisms remarkably similar to those of the original human civilization.
+The original sequence of events remains canonically real. The Researcher genuinely lived as a human, conducted research, developed technology, and ascended before performing the rewrite. The rewrite did not retroactively turn that original human life into a manifestation or reveal that she had secretly been necessary all along.
 
-The Researcher possesses no particular interest in intervening in the main narrative, despite retaining the unrestricted capacity to do so.
+The original sequence and the resulting ontology are distinct orders. The same individual exists across both: the rewrite changed what The Researcher was, not who she was.
 
-Her historical development has concluded, and her absolute state is complete.
+The rewrite also established The Researcher as the ultimate ontological foundation of her resulting creation, including the original cosmos as it exists within that resulting ontology. The genuine original sequence in which she was born remains her historical origin and is not itself grounded in her completed identity.
+
+Following the rewrite, her completed identity became independent of its original causal history. The rewrite closed that history against further alteration, including attempts to prevent her ascension or undo the rewrite itself.
+
+Her human origin remains historically true. However, it no longer determines, sustains, limits, or provides a vulnerability in her completed existence.
