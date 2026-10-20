@@ -16,6 +16,24 @@ The declaration is not awaiting activation, completion, or the passage of time.
 
 Its established condition is already fully realized.
 
+## Relationship to Retroactive Ascension and Absolute Inviolability
+
+Absolute Atemporal Declaration is an intrinsic ability of The Researcher's completed fundamental identity, as established by her retroactive rewriting of existence.
+
+In the original sequence, The Researcher genuinely began as a contingent human, developed technology, ascended, and subsequently rewrote existence. Her original human life was not a manifestation of an already-necessary being, and her completed inviolability was not secretly protecting that human during the original sequence.
+
+Following the completed rewrite, her fundamental identity exists necessarily and independently of temporal succession. Her declarations therefore do not require chronological activation, preparation, or reaction within the resulting ontology.
+
+This does not mean that her declarations caused her original ascension or that their atemporal operation rewrites the original sequence again. That sequence remains a genuine, closed history, as established in Retroactive Ontological Rewriting.
+
+**Absolute Inviolability is not a declaration that she must establish or maintain.** It is an intrinsic, irrevocable property of her completed fundamental identity.
+
+The Researcher may establish, modify, or withdraw particular voluntary declarations concerning her actions, manifestations, or other valid subjects. However, withdrawing a declaration cannot withdraw her necessary existence, revoke her completed identity, or make that identity vulnerable to external effects.
+
+A declaration affecting an independently authored fictional setting does not automatically establish jurisdiction over that setting. Where another work makes incompatible absolute claims, the encounter requires shared crossover assumptions.
+
+Absolute Atemporal Declaration remains an expression of her independent will. It does not create a condition in which her fundamental identity must first become protected, because that identity is intrinsically inviolable.
+
 ## Independence from Temporal Succession
 
 The Researcher does not experience existence as a sequence of past, present, and future.
