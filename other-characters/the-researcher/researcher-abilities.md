@@ -2,17 +2,17 @@
 
 ## Overview
 
-**The Researcher** is an entity who, through technological advancement, attained a completed state of absolute existence, omnipotence, omniscience, and ontological sovereignty.
+**The Researcher** began as a genuinely ordinary, contingent human in her original cosmos. Through real research and technology, she genuinely ascended into a being capable of rewriting reality at its most fundamental level. After ascending, she rewrote existence itself so that her **completed fundamental identity** had always been necessary, ungrounded, omnipotent, omniscient, and sovereign.
 
-Although originally born as an ordinary human, her development eventually surpassed the fundamental conditions governing existence, causality, possibility, reality, and metaphysical authority.
+Her human childhood, limited knowledge, technological work, and ascension were actual events in the **original sequence of events**. They were not a disguise, a voluntary manifestation of a secretly preexisting deity, or merely the discovery of powers she already possessed. Ascension was an actual transformation of that originally human person.
 
-Upon completing her ascension, The Researcher restructured the foundations of creation, establishing herself as the ultimate ontological source of everything.
+**The retroactive rewrite came afterward.** It did not merely change records or give her a past appearance of divinity. It established necessary existence as an intrinsic property of her completed identity and rewrote the ontological and modal conditions of her creation accordingly. In the resulting existence, her completed identity is necessary at every time and across its possibilities, without depending on her human origin or on the event that originally enabled the rewrite.
 
-Her current nature is not sustained by the technological mechanisms responsible for her ascension. Nor is it dependent upon the continuation of her original universe, history, or any other external condition.
+The story thus retains both facts at distinct levels: she truly became what she was not in the original sequence, and, following her completed rewrite, what she became is not contingent on having become it. Her original human history remains canonically real as the history of how the rewrite was achieved, but it is not a vulnerability or an ongoing condition of her completed existence.
 
-The Researcher's completed state is not a position within a hierarchy of power. Her fundamental nature cannot be determined or altered through comparisons of strength, dimensionality, narrative position, or metaphysical rank.
+Her completed state is not a position within a hierarchy of power. Her completed fundamental nature cannot be determined or altered through comparisons of strength, dimensionality, narrative position, or metaphysical rank.
 
-The properties described below are inherent characteristics of her completed state.
+The properties described below are intrinsic to her **completed, retroactively established identity**, not powers secretly present in her original human condition.
 
 ## Absolute Omnipotence
 
