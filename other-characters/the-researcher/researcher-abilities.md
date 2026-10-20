@@ -137,24 +137,6 @@ No further alteration of time, possibility, necessity, actuality, existence, or 
 
 ## Absolute Ontological Sovereignty
 
-The Researcher is the ultimate ontological foundation of all creation.
-
-Upon completing her ascension, she restructured the principles governing existence and origination such that everything ultimately derives its existence and authority from her.
-
-This includes realities, dimensions, entities, concepts, laws, histories, temporal structures, and the original cosmos in which she was born.
-
-Her original existence as a created human remains historically true.
-
-However, chronological precedence no longer determines ontological dependence.
-
-Consequently, the fact that the original cosmos historically preceded her birth does not contradict its present dependence upon her fundamental authority.
-
-The Researcher's sovereignty is intrinsic and does not originate from a superior entity, system, hierarchy, or external source.
-
-No entity within her creation can independently acquire an authority more fundamental than the source through which its own existence is established.
-
-## Absolute Ontological Sovereignty
-
 The Researcher's completed fundamental identity exists independently of, and is not subject to, any ontological hierarchy, rank, level, or ordering system. She does not occupy the highest position within such a hierarchy; rather, she is outside and exempt from ontological classification itself.
 
 Following her technological ascension, she **deliberately rewrote** the principles governing existence and origination within her creation such that everything within it ultimately derives its existence and authority from her. The rewrite also establishes her completed necessary identity retroactively throughout the resulting existence.
