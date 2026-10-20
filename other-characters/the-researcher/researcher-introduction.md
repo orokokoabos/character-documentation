@@ -2,13 +2,19 @@
 
 ## Overview
 
-**The Researcher** is a former human scientist who, through an extraordinarily prolonged process of technological advancement, attained a state of absolute existence and sovereignty over the fictional creation belonging to the franchise.
+**The Researcher** is a former human scientist who, through an extraordinarily prolonged process of technological advancement, genuinely ascended from ordinary human existence into a being capable of restructuring reality at its most fundamental level.
 
-Originally born on Earth within the original human civilization, The Researcher was neither divine nor inherently supernatural. Her current existence is the result of technological development extending far beyond the capabilities of her original civilization.
+Originally born on Earth within the original human civilization, The Researcher was neither divine nor inherently supernatural. Her original human existence was genuinely contingent, and her technological ascension was a real transformation rather than the manifestation of an already-existing necessary being.
 
 Following the destruction of humanity and the eventual deaths of the remaining survivors, she continued her research independently, ultimately attaining the ability to restructure the fundamental principles governing creation itself.
 
-Despite her present status, The Researcher retains her identity, memories, interests, and various aspects of her original human personality.
+**After her technological ascension**, The Researcher performed a separate, retroactive rewrite of existence. Through this act, she established her completed fundamental identity as necessarily existent, ungrounded, and independent of the conditions that had originally enabled her ascension.
+
+In the resulting ontology, her completed identity had always existed necessarily. However, her original human life, technological development, and ascension remain genuine events in the original sequence. The rewrite did not turn that earlier human existence into a manifestation or erase the fact that she truly began as an ordinary human.
+
+Her completed fundamental identity exists independently of ontological hierarchies rather than occupying their highest rank. She possesses absolute sovereignty over her resulting creation without being subject to its ontological classifications.
+
+Despite her completed state, The Researcher retains her personal identity, memories, interests, and various aspects of her original human personality.
 
 ## Role in the Franchise
 
