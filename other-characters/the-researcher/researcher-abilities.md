@@ -14,6 +14,19 @@ Her completed state is not a position within a hierarchy of power. Her completed
 
 The properties described below are intrinsic to her **completed, retroactively established identity**, not powers secretly present in her original human condition.
 
+## Retroactive Ontological Rewriting
+
+Two descriptions of the Researcher's origin must not be conflated:
+
+1. **Original sequence:** An ordinary human existed contingently, developed technology, and truly ascended. At this stage, she was not yet the necessarily existent, inviolable Researcher described by her completed metaphysics.
+2. **Resulting ontology:** Once ascended, she exercised her new authority to rewrite the conditions of existence, including those governing temporal and modal dependence. Under the rewritten order, her completed identity has always existed necessarily. Neither her human birth, her research, her technology, nor the ascension event sustains, causes, or limits her completed existence.
+
+The original sequence remains a true account of how the rewrite was carried out. **It was an actual earlier order of events, not a manifestation secretly inhabited by an already-necessary being.** The resulting ontology is a distinct order established by the rewrite. The rewrite follows the original sequence in the **order of rewriting**, rather than at some earlier or later date inside the resulting timeline.
+
+**Finality across orders.** The rewrite closes the original sequence—including the interval after ascension but before the rewrite—as a fixed, real history. It also closes the order of rewriting with respect to that history and to the Researcher's completed identity. It leaves no temporal, higher-temporal, modal, narrative, or other order—earlier, later, parallel, or encompassing—in which any act, including her own, can reopen, amend, rerun, preempt, or supersede the original sequence or revise the rewrite's result concerning her. The rewrite's content is exactly the completed identity specified by this document; it contains no hidden reservation, condition, or exception.
+
+This finality does **not** deny that ordinary people and events acted on the genuinely contingent human in the original sequence when that history was unfolding. It means that, after completion, no opponent can newly intervene in that completed sequence, whether by time travel, a higher ordering of time, an attempted counter-rewrite, or retroactive insertion of an event. Nothing can force the completed identity back into an earlier condition in which she could be acted upon. An independently authored opponent's contrary account constitutes a conflict of crossover premises, not an event that occurred in her established history.
+
 ## Absolute Omnipotence
 
 The Researcher possesses absolute omnipotence.
