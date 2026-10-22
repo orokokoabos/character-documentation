@@ -6,6 +6,6 @@ These are the final weeks before the beginning of the world war at the very end 
 
 # Leon's Speech and the beginning of the World War
 Leon does his speech after gathering anti demi human believers, whether it be nations, organizations, companies, kingdoms, world powers etc. He's gathered everybody he could.
-This is his final speech the night before the war begins. [Speech here](../other-characters/leon/leons-speech.md)
+This is his final speech the night before the war begins. [Speech here inside the character introduction](../other-characters/leon/leon-introduction.md)
 
 etc. continue writing later
