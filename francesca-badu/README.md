@@ -39,5 +39,4 @@ This is her relevance during the story, she is mostly not important to the story
 
 This folder in the repo is focused on documenting this Badu character, not because she is a main character or important to the story, she isn't important (except around the end), we just simply are choosing to document this character because we find her interesting, not because the story revolves around her, it doesn't at all. So do not think "there is so much information about Francesca and not a lot of info about any other character, therefore Francesca must be a very important character / main character", because she's not, we are simply talking about her because we want too, which is why it seems like she has so much information, but 99% of other characters have more information than her, it's just that we haven't typed it out or given it to you (reader), because the purpose of this repo is to talk about Francesca, not any other character.
 
-
-
+[Power Ranks](../power-ranks.md) helps you understand how we rank the powers of characters.
