@@ -18,7 +18,7 @@ During the sequel story where they have a rematch (so if you look in the sequel 
 
 Malu is a [vengeful spirit](../Arms,%20Equipment%20&%20Abilities/vengeful-spirits.md). He is originally a demon, however after his defeat, his will for revenge was so powerful that he became a vengeful spirit.
 
-The way Malu appears during the final arcs in the series to fight Francesca, is that the contemporary Demon King of the series, uses the [Black Ring](../Arms,%20Equipment%20&%20Abilities/black-ring.md) to call upon Malu for help, prompting Malu to possess the contemporary Demon King's body, allowing him to take full control for a certain time limit. Through the possessed body, Malu fights Francesca.
+The way Malu appears during the final arcs in the series to fight Francesca, is that the [contemporary Demon King](./demon-king-orca.md) of the series, uses the [Black Ring](../Arms,%20Equipment%20&%20Abilities/black-ring.md) to call upon Malu for help, prompting Malu to possess the contemporary Demon King's body, allowing him to take full control for a certain time limit. Through the possessed body, Malu fights Francesca.
 
 During their rematch, Malu actually resurrects, that is in the sequel though. The mechanics are explained better there.
 
