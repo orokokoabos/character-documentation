@@ -5,3 +5,4 @@ This contains lore and info about Francesca in the sequel story. The rest of the
 **Everything inside this sequel-story folder is only material that happens in the sequel story, you are looking at sequel story material.**
 
 Events that happen in the sequel story: [Sequel Events](./sequel-story-events)
+The main conflict of the sequel story is different: [Sequel Story Conflict](./sequel-story-conflict.md)
