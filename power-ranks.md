@@ -1,4 +1,3 @@
-ABCDEF
 # Power Ranks
 
 ## How rankings emerged
