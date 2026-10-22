@@ -32,6 +32,10 @@ The numbering below is an **index**, not a ranking, acquisition order, or claim 
 
 ### 2. Supernatural-Phenomena Nullifier
 
+When an area occupying space of this weapon's blade, overlaps with an area of space where supernatural phenomena exists, it cancels/nullifies the supernatural phenomena. We say space overlapping because it doesn't have to physically touch. If the blade physically touches, it works, if it can't touch it, it still works because it overlaps the area that the phenomena exists in. The blade only works if it's being held and used by the user. Salore takes the blade out by holding the blade instead of the handle incase he activates it and nullifies the magic bag itself, which we don't know what would happen or if that even works though.
+
+What counts as supernatural is interpreted by the magic particles. The users obviosuly do not know this, so they do not know how it really works, but it just does, and the magic particles dedcide if somethign is supernatural. Magic particles, because this blade is a magical infused weapon. Read about magic particles: [Magic Particles and System](./magic/magic-system.md)
+
 ### 3. Vector-Manipulating Sword
 
 #### Overview
