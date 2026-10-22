@@ -31,3 +31,7 @@ High Tier G Rank Ability, arguably it's own category, higher than G Rank, on the
 ## Sequel Francesca, not in the main story, centuries in the future.
 
 Above G Rank in ability
+
+## What the rankings mean
+
+These are what rankings are: [Power Ranks](../power-ranks.md)
