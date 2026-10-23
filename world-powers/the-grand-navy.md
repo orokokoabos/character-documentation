@@ -64,6 +64,8 @@ The Grand Navy's operational ranks, from lowest to highest, are:
 
 The Fleet Admiral, when the position is occupied, commands all four Admirals. The Navy can operate without an incumbent Fleet Admiral.
 
+There has only been 2 Fleet Admirals in history, one a century ago during a previous war not explored in the story, but mentioned/referenced. People know about it. The other is [Fleet Admiral Horus](../other-characters/horus.md). He's the 2nd fleet admiral in history, and is employed by the Navy Board of Military Chiefs as the commanding leader, uniting the 4 Admirals (the admirals at the time this happened) and all their units, in order to fight the [Glyph Empire](./glyph-empire.md) during one of the major war arcs in the entire series: [Glyph vs Navy](../arcs/glyph-vs-navy.md).
+
 ### King Admiral
 
 **King Admiral** is a historical, largely ceremonial office rather than the Navy's effective supreme operational command. Its continued existence reflects institutional tradition, and it carries little practical power.
