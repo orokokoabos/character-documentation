@@ -4,7 +4,7 @@
 
 Edward's arc takes place directly after the [TTC arc](./TTC.md). It follows [Captain Edward Baker](../other-characters/captain-edward.md) and his crew. Apart from their missions, the principal setting is one of the [Grand Navy's](../world-powers/the-grand-navy.md) bases. The Navy has multiple bases and headquarters; this is one particular posting.
 
-**This document records only selected major events and the context needed for this repository. It is not a complete account of the arc.** Many missions, relationships, conflicts, and other important story events are omitted. Their omission does not mean that they do not happen or are unimportant to the story. They do not need to be fully documented in a repository focused on Francesca Badu. Even the early portion summarized below contains substantially more material than this outline describes.
+**This document records only selected major events and the context needed for this repository. It is not a complete account of the arc.** Many missions, relationships, conflicts, and other important story events are omitted. Their omission does not mean that they are unimportant to the story, it's just unimportant as context to help explain Francesca. They do not need to be fully documented in a repository focused on Francesca Badu.
 
 The arc is included because it establishes Edward, the crew's shared history, and the founding of [Foxden Co.](../world-powers/organizations-and-entities/foxden.md). Edward and Foxden later participate in the conflict with Leon, whose movement is directly relevant to Francesca's role in the final war. Francesca also has one significant, separate incident within this arc.
 
