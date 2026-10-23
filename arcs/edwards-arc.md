@@ -28,9 +28,9 @@ For almost the entire arc, Francesca has less involvement than a side character.
 
 Francesca is exceptionally well known within this particular base because of her extraordinary beauty. She is effectively its most popular young woman, attracting widespread admiration and romantic interest. Edward and his crew sometimes notice her and discuss how attractive she is.
 
-These appearances also present the favorable impression people have of her: beautiful, kind, humble, and apparently admirable. Her popularity at this base should not be treated as a claim that she personally knows everyone throughout the entire Grand Navy.
+These appearances also present the favorable impression people have of her: beautiful, kind, humble, and apparently admirable.
 
-Apart from the separate mission described next, she is essentially background presence. That one incident does not make her a main character or a regular side character in Edward's arc.
+Apart from the separate mission described next, she is essentially background presence.
 
 ## Francesca's Trafficking Mission and the Imprisoned Children
 
@@ -54,13 +54,13 @@ Afterward, she recognizes a possible reputational problem: if someone else event
 
 She returns and kills them to eliminate that possibility.
 
-She could recognize alternatives such as returning to rescue them and explaining her earlier departure, but those alternatives would leave witnesses who could still describe what they saw. Under this incident's established circumstances, she chooses to eliminate that uncertainty. The children's lives provide no intrinsic emotional reason for her to reject doing so.
+She could recognize alternatives such as returning to rescue them and explaining her earlier departure, but those alternatives would leave witnesses who could still describe what they saw. Under this incident's established circumstances, she chooses to eliminate that uncertainty.
 
 The full explanation of her selective attention, concern for reputation, emotional indifference, and the investigative circumstances is in [The Ant Analogy — The Imprisoned Children](../francesca-badu/psychology/the-ant-analogy.md#example-the-imprisoned-children). This is an actual story event, distinct from the hypothetical scenarios in that document.
 
 ### Presentation of the Cell Scene
 
-The camera remains stationary, facing directly into the cell. There is no music.
+The camera (audience's POV in the animation, the story / read version is different but has the same feeling) remains stationary, facing directly into the cell. There is no music.
 
 Francesca enters with her back toward the camera. Her body largely blocks the children from view, so the audience cannot clearly see everything she does.
 
@@ -74,7 +74,7 @@ This incident takes place separately from Edward's crew's activities. It is a no
 
 ## The Pirates and the Captured Crew Members
 
-During a later mission, Edward and his crew fight a dangerous group of pirates. The Navy crew wins the fighting on land, but the pirates manage to take approximately one or two crew members hostage as they retreat.
+During a later mission, Edward and his crew fight a dangerous group of pirates. The Navy crew wins the fighting on land, but the pirates manage to take two crew members hostage as they retreat.
 
 The pirates bring the captives aboard their ship. They use them to prevent Edward's crew from destroying the departing vessel: sinking it would also endanger the captured Navy members. They also threaten to kill the hostages if they are followed.
 
@@ -130,16 +130,7 @@ After hearing the deserters' explanation, Tarmi refuses to cooperate in their ca
 
 Edward and the other former Navy members subsequently establish **Foxden Co.**, a private military and security company, and begin operating their business in Tarmi.
 
-The founding group consists of Navy deserters, including several highly capable fighters and some captains. They are very strong, although that does not place them among the setting's absolute strongest combatants. Foxden's later recruitment and expansion occur beyond this arc.
+The founding group consists of Navy deserters, including several highly capable fighters and some captains.
 
 **Edward's arc ends with the formation of Foxden Co.**
-
-## Later Relevance to This Repository
-
-Edward and Foxden recur elsewhere in the story. Their later involvement in [Leon's biological-weapon blueprint pursuit](./leon-blueprint-pursuit-and-shipwreck.md) is especially significant: they help prevent his regime from obtaining a weapon intended for mass extermination, and Leon kills Edward and many of the original deserters during that conflict.
-
-That later role connects the history established here to Leon's movement and the final war involving Francesca. It explains why this arc belongs in this repository despite Francesca's extremely limited presence.
-
-Many other arcs and events remain undocumented because they do not provide the context this Francesca-focused repository needs. This outline likewise leaves out a large amount of Edward's own arc; it does not replace the full story.
-
 
