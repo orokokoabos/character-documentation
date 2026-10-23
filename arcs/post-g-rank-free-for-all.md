@@ -4,6 +4,8 @@
 
 The Post–G-Rank Free For All arc takes place following the conclusion of the G-Rank Free For All.
 
+The G-Rank Free For All (Or G Rank Free For All, G Rank FFA), is a sub arc / event that happened near the end of the [Glyph vs Navy Arc](./glyph-vs-navy.md)
+
 This arc is significant because it establishes some of the political and ideological consequences of Francesca Badu's actions during the preceding conflict.
 
 It also marks the first introduction of [Leon](../other-characters/leon/README.md), who eventually becomes the principal organizer and leader of the international anti-demi-human coalition / Leon's Regime.
