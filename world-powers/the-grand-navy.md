@@ -85,3 +85,71 @@ Navy rank is distinct from the combat classifications described in [Power Ranks]
 The Navy records officers' accomplishments, including victories over powerful and recognizable criminals. These official records are particularly relevant to Francesca's interest in documented achievements and public reputation.
 
 Operational decisions can require authorization from superior officers. In Edward's arc, the higher-ups control whether his crew may mobilize a Navy ship to pursue the pirates after their assigned mission has been declared completed.
+
+## History
+
+### Holy Meekaz and Its Protector Role
+
+The Grand Navy originated as a kingdom called **Holy Meekaz**.
+
+Meekaz regarded protection as a central part of its role. It maintained treaties with many nations and stationed military forces around the world to protect them.
+
+However, this extensive deployment created a weakness at home. A large proportion of its soldiers were stationed elsewhere, leaving the forces defending Meekaz itself at a substantial disadvantage.
+
+### Glyph's Attack and the Loss of Allied Support
+
+During the rise of the [Albagliff Empire](./glyph-empire.md), commonly shortened to the Glyph Empire, Meekaz became one of the kingdoms targeted by its expansion.
+
+Glyph attacked Meekaz and assassinated its king.
+
+Meekaz's military commitments abroad had left its homeland comparatively vulnerable. Its international relationships also failed to provide the support it needed: frightened by Glyph's growing power, many nations broke their treaties with Meekaz and cooperated with the empire instead.
+
+The attack therefore left Meekaz facing both a powerful enemy and the abandonment of former allies.
+
+Glyph's criminal origins, territorial expansion, and eventual development into an institutionalized empire are explained in [its own history](./glyph-empire.md).
+
+### An Unresolved Grievance
+
+Meekaz retained a deep grievance over the attack, the assassination of its king, and the betrayal of its former allies. However, it lacked the military strength and allied support necessary to retaliate.
+
+It could not act simply because it wanted revenge.
+
+Over time, Meekaz grew stronger. By then, however, Glyph had consolidated its empire and established relationships and treaties with other powers.
+
+The obstacle to retaliation had changed. Meekaz was no longer confronting only the military imbalance of the original attack. Attacking Glyph could now bring it into conflict with the empire's allies as well.
+
+Consequently, Meekaz's recovery did not provide a straightforward opportunity to settle the grievance. The hostility remained unresolved.
+
+### Transformation Into the Grand Navy
+
+Holy Meekaz eventually rebranded as the **Grand Navy**.
+
+Its peacekeeping identity developed from the kingdom's existing protector role. Meekaz had already maintained forces abroad to defend other nations; the Navy continued that broader commitment to protection, law enforcement, and opposition to criminal activity.
+
+Its experience with Glyph also gave that work a particular historical significance. Criminal groups had grown into a conquering power capable of attacking Meekaz and killing its king. Suppressing such activity could help prevent another power from developing in the same way.
+
+The Grand Navy therefore emerged from an existing kingdom with an established military and a history of international protection. Its formation was a transformation of that institution.
+
+### International Standing After the Transformation
+
+The modern Grand Navy does not rely on the same extensive protective treaty network that characterized Holy Meekaz. It is broadly accepted as an international peacekeeping organization.
+
+That acceptance should not be confused with unrestricted authority over every nation. Its ability to operate within another state's territory remains distinct from that state's willingness to cooperate with it.
+
+### Historical Memory Within the Navy
+
+The grievance against Glyph survives within the Grand Navy's institutional memory.
+
+Personnel are taught the history of Glyph's attack and what happened to Holy Meekaz. Over generations, that history has also become part of the Navy's military culture.
+
+This does not mean that every contemporary Navy member personally hates Glyph or experiences the original grievance as an individual desire for revenge. Many personnel did not experience those events and do not hold a personal grudge.
+
+Nevertheless, the history remains familiar and institutionally significant. Individual attitudes can vary while the organization continues to preserve a collective memory of what Glyph did.
+
+### Present Relations With Glyph
+
+The Navy's general willingness to provide peacekeeping services does not extend to the Glyph Empire.
+
+It avoids providing those services within the empire and does not treat Glyph as an ordinary recipient of its protection.
+
+This exceptional relationship reflects the unresolved history between the two powers. Glyph's development into an established state did not erase its attack on Meekaz or reconcile the institutions that survived it.
