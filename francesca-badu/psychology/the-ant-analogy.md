@@ -292,23 +292,9 @@ Consequently, eliminating the children does not create the same practical risk o
 
 This does not establish that Francesca can commit every possible crime without detection. It describes the circumstances and investigative limitations relevant to this specific event.
 
-### Why This Does Not Contradict Her Intelligence
+### Edward's Arc
 
-Francesca's extraordinary intelligence does not require her to continuously consider every possible action that could increase her reputation.
-
-Her attention is influenced by her immediate goals and emotional priorities.
-
-Before she recognizes the reputational risk, rescuing the children has little relevance to the objective occupying her attention.
-
-After she recognizes the risk, their continued existence becomes directly relevant to something she values intensely.
-
-The change in her behavior therefore results from a change in which consequences she is actively considering.
-
-She does not necessarily believe that killing the children is objectively morally justified, nor that it is the only logically conceivable response.
-
-She chooses it because, under the established circumstances, she considers it an effective way to eliminate a potential reputational threat, while the children's lives possess no intrinsic emotional significance to her.
-
-This incident demonstrates how Francesca's selective attention, extraordinary vanity, emotional indifference, and willingness to prioritize her own desires can interact to produce exceptionally cruel behavior.
+The child trafficking scene is part of one event in Edward's Arc. Read about Edwards arc here: [Edward's Arc](../../arcs/edwards-arc.md)
 
 ## Limits of the Ant Analogy
 
