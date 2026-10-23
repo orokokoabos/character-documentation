@@ -88,6 +88,8 @@ In his desperation, Leon forces himself forward by tearing his own body off the 
 
 Despite the injury, Leon attacks. He kills several of the company's remaining personnel, but the others eventually overpower him and throw him into the lake.
 
+Captain Edward, and a lot of the original members of [Foxden Co.](../world-powers/organizations-and-entities/foxden.md), the people he deserted the Grand Navy with, were killed by Leon. Check [Foxden Co.](../world-powers/organizations-and-entities/foxden.md) for more information.
+
 ## Crossing the Lake Beneath the Ship
 
 The surviving company personnel depart by ship, unaware that Leon has not abandoned the pursuit.
