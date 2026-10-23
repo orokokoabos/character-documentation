@@ -34,7 +34,7 @@ Leon believes that possession and eventual use of this weapon could decisively c
 
 Leon's headquarters lies in a central city, within a region containing surrounding cities, smaller nations, settlements, and villages. Some surrounding territories support the regime; others were conquered and placed under its control rather than voluntarily joining its cause.
 
-An established, well-known private military company aligned with the pro-demi-human side operates on this front [Foxden Co.](../../world-powers/organizations-and-entities/foxden.md). The company has appeared elsewhere in the wider story, for example their military support of The Grand Navy during the Glyph vs Grand Navy arc.
+An established, well-known private military company aligned with the pro-demi-human side operates on this front [Foxden Co.](../world-powers/organizations-and-entities/foxden.md). The company has appeared elsewhere in the wider story, for example their military support of The Grand Navy during the Glyph vs Grand Navy arc.
 
 The company's fighters are exceptionally powerful. A relatively small contingent can overwhelm conventional forces that vastly outnumber them; the earlier approximate description was around twenty elite individuals in the relevant fighting, with individuals potentially capable of defeating formations of hundreds of ordinary soldiers. These figures are approximate descriptions of the story's scale, not a complete roster or fixed deployment count for every operation.
 
