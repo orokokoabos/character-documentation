@@ -29,6 +29,8 @@ Remember this does not include all the arcs, only arcs relevant around Francesca
 
 [TTC](./TTC.md),
 
+[Edward's Arc](./edwards-arc.md),
+
 [Calm Before The Storm](./calm-before-the-storm.md),
 
 [Glyph vs The Grand Navy](./glyph-vs-navy.md),
