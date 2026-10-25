@@ -54,7 +54,7 @@ Both are G-rank combatants at this point.
 
 ### Joining Hideki's Crew
 
-Francesca and Salore meet **Hideki**, the world's most-wanted criminal, and join his crew.
+Francesca and Salore meet [Hideki](../other-characters/hideki.md), the world's most-wanted criminal, and join his crew.
 
 Hideki is a G-rank combatant whose principal magic is light magic. He treats his crew as family: brothers, sisters, and people for whom he feels a parental responsibility. His crew includes many exceptionally dangerous criminals, including individuals among the world's hundred most wanted.
 
