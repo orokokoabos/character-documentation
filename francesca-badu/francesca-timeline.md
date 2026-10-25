@@ -24,6 +24,8 @@ G Rank Ability
 
 ## ~20
 
+Francesca receives the [Eyes of Epiphany](../Arms%2C%20Equipment%20%26%20Abilities/eyes-of-epiphany.md) from the Grand Navy. Explained why the Grand Navy gives her this in the Eyes of Epiphany file.
+
 Francesca becomes an Admiral [Francesca vs Assassin Syndicate Arc](../arcs/francesca-vs-assassin-syndicate.md).
 
 ## ~21 - 23
