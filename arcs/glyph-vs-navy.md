@@ -122,6 +122,8 @@ He barely survives and requires reconstructive surgery and exceptionally advance
 
 The dictator gives him a final chance. The lives of the hostages—including the families of his fallen teammates—still depend on his killing Francesca. Gektor resumes the pursuit under that threat.
 
+The team’s sensory deception, vector traps, and Francesca’s development of concentrated physical impacts are documented in [Gektor — First Battle With Francesca (documented inside Gektor's file)](../other-characters/gektor.md). This entire fight is documented inside Gektor's personal character file, to understand this fight and exactly what happens, you must read Gektor's file. That explains the entire fight that is not fully explained in this file.
+
 ## Betrayal of Hideki's Crew
 
 After further intervening sub-arcs, Francesca and Salore identify the crew itself as an opportunity to increase their criminal reputations.
