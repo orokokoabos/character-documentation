@@ -110,6 +110,14 @@ Because the particles originate from The Researcher and a higher plane of existe
 
 Francesca's full discovery of the mana system still occurs only in the sequel. That later understanding enables further exploitation, including the reality alterations described in [New Reality](../../sequel-story/sequel-story-events/new-reality.md) and [Extinction of Infinity](../../sequel-story/sequel-story-events/extinction-of-infinity.md). Those sequel capabilities must not be attributed to earlier versions of her.
 
+### Particle Scale and Perception
+
+Mana can be visualized as an immense collection of minute particles, approximately comparable in scale to molecules or smaller. The comparison does not establish ordinary molecular chemistry for magic.
+
+People may see a spell’s visible effect without seeing its constituent mana particles. Skilled mages can sense magic and locate it, but cannot ordinarily resolve those particles visually.
+
+The [Eyes of Epiphany](../eyes-of-epiphany.md) provide that exceptional visual access. Their information-overload risk and Francesca’s ability to withstand it are documented in the equipment entry.
+
 ## 4. Requesting Mana
 
 When a living being intends to perform magic, that intention functions as a request for mana.
@@ -163,6 +171,8 @@ The apparent immediacy of this process makes the misconception understandable.
 Particles can arrive so quickly that the caster cannot ordinarily distinguish an external request from the activation of an internal ability.
 
 The conventional belief that mana is naturally stored within living bodies therefore persists across many civilizations.
+
+Francesca identifies the error through the Eyes of Epiphany: she observes that living beings lack the supposed innate reserve before casting and that particles appear when they begin using magic (because she can see the magic with the Eyes of Epiphany glasses, the equipment lets her do this). She recognizes that the prevailing theory is wrong without yet discovering where the particles originate. This limited discovery must be distinguished from her full understanding of the system in the sequel.
 
 ## 6. Human Magic
 
