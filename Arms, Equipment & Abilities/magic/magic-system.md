@@ -104,9 +104,11 @@ Instead, they possess enough awareness or discrimination to carry out complicate
 
 This characteristic is especially important for certain supernatural weapons.
 
-Because the particles originate from The Researcher and are from a higher plane of existence, they also possess extraordinary capabilities, such as altering reality itself. However NOBODY in the series figures this out, so nobody ends up with a level of power that could alter reality. If you understood how powerful the particles really were, then you could exploit it and become so powerful you could alter reality, the power is literally at the hands of everybody in the main series... But nobody in the world knows how the particles work, so all it's uses are more like conventional magic, nobody has achieved anything that powerful such as altering reality, because nobody knows how the particles really work, they just assume it's just magic and that's all, and don't know how much power they really hold at their hands. 
+Because the particles originate from The Researcher and a higher plane of existence, their capabilities include altering reality itself. Ordinary users do not understand the source or full potential of that power. Their practical techniques need not include knowledge of the underlying system.
 
-The only person to ever achieve something on the scale of altering reality is Francesca, but that is in the sequel, before the sequel, in the main story, she has no clue how it works also. But in the sequel Francesca discovers how the particles work, and exploits them to use abilities that can alter reality itself.
+[Supreme Arts](./supreme-arts.md) exploit those capabilities by imposing personal laws within jurisdictions. During the final fights of the main story, endgame Francesca invents the first **Liberated Supreme Art**, which imposes its law on reality without a jurisdiction. Malu immediately develops his own, and a later collective implementation is used to imprison Francesca. These breakthroughs do not mean their users have discovered the external sphere or the Researcher.
+
+Francesca's full discovery of the mana system still occurs only in the sequel. That later understanding enables further exploitation, including the reality alterations described in [New Reality](../../sequel-story/sequel-story-events/new-reality.md) and [Extinction of Infinity](../../sequel-story/sequel-story-events/extinction-of-infinity.md). Those sequel capabilities must not be attributed to earlier versions of her.
 
 ## 4. Requesting Mana
 
@@ -123,6 +125,12 @@ The particles respond to the request and appear at the appropriate location.
 From the individual's perspective, they are simply using their magical abilities.
 
 They generally do not realize that an external transaction has occurred.
+
+### Precision of Intent and Interpretation
+
+A request is not necessarily a literal verbal or internally recited instruction. Mana interprets the user's intent and implements it as an operation. The user need not know about the sphere, use a particular language, or consciously formulate the system-level instructions that explain the effect.
+
+This interpretation does not make vague intent sufficient for every technique. Supreme Arts require extraordinarily precise, thoroughly practiced intent, even though the user never consciously addresses the sphere. Likewise, different forms of Refusal Writs can be interpreted as the same request to exclude the defender from an impending jurisdiction. See [Supreme Arts](./supreme-arts.md) for the detailed rules.
 
 ### Two Fundamental Processes
 
@@ -349,3 +357,5 @@ Its detailed mechanics are documented in the weapon bag's entry.
 The important principle is that the mana particles themselves evaluate the encountered phenomenon and determine whether it qualifies for nullification.
 
 The ability is therefore not simply a physical cutting or destructive effect.
+
+
