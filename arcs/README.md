@@ -38,4 +38,5 @@ Remember this does not include all the arcs, only arcs relevant around Francesca
 [Post G Rank FFA](./post-g-rank-free-for-all.md),
 
 [Calm Before The Storm](./calm-before-the-storm.md),
+
 [Biological Weapon Blueprint](./leon-blueprint-pursuit-and-shipwreck.md)
