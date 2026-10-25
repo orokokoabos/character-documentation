@@ -230,7 +230,7 @@ He dies after delivering the warning. The gravity mage looks down at him, sweati
 
 Gektor's muscles give out, leaving him on the ground, wheezing and temporarily unable to move. The gravity mage and combat mage continue fighting while he struggles to remain involved.
 
-The combat mage begins charging a culminating [Supreme Art](../Arms%2C%20Equipment%20%26%20Abilities/magic/supreme-art.md) above Francesca. The remaining team expects the attack to vaporize her and everyone else in the area, including themselves. They accept that prospect in the hope that killing her will save their families.
+The combat mage begins charging a culminating [Supreme Art](../Arms%2C%20Equipment%20%26%20Abilities/magic/supreme-arts.md) above Francesca. The remaining team expects the attack to vaporize her and everyone else in the area, including themselves. They accept that prospect in the hope that killing her will save their families.
 
 The technique takes time to charge. The gravity mage establishes an area of intensified gravity around Francesca to hold her in place until it is ready (roughly 10 quadrillion times Earth's gravity, rough estimate).
 
