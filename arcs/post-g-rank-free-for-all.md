@@ -40,7 +40,7 @@ She fights powerful opponents because defeating them contributes to the extraord
 
 She does not deliberately organize a political campaign, pursue demi-humans as a group, or attempt to alter the international political balance.
 
-Her immediate intervention in the final confrontation also follows the discovery of Salore's death and her intense grief and rage. Reputation-seeking explains much of her earlier activity, but it should not erase that immediate personal trigger. Aidos, one of the fighters opposing her, dies from Tarlylox during the battle rather than being killed by her. The sequence is documented in [Glyph vs the Grand Navy](./glyph-vs-navy.md#francescas-arrival-and-response-to-salores-death).
+Her immediate intervention in the final confrontation also follows the discovery of Salore's death and her intense grief and rage. Reputation-seeking explains much of her earlier activity, but it should not erase that immediate personal trigger. Aidos, one of the fighters opposing her, dies from Tarlylox during the battle rather than being killed by her. The sequence is documented in [Glyph vs the Grand Navy](./glyph-vs-navy.md).
 
 Nevertheless, the deaths of these exceptionally powerful individuals significantly affect the world's balance of power.
 
@@ -51,6 +51,8 @@ Among those killed is [Baku](../other-characters/baku.md), an anti-demi-human G-
 This death contributes to a change in the balance of political power within the World Government, producing a pro-demi-human majority.
 
 These developments create new opportunities and concerns for opposing political movements.
+
+Sola Sola, Fleet Admiral Horus, and Gestor were all Demi Humans, with the dead after the G Rank FFA inside the Glyph vs Navy arc, Leon basically sees that these powerful demi humans, who would pose one of the biggest challenge if we fully declared war on demi humans as a whole, because they were so powerful, are now dead. This basically tells him "the strongest demi humans are gone, one of the biggest challenges are gone, this is the opportunity to get rid of demi humans." G Rank FFA explained here: [Glyph vs the Grand Navy](./glyph-vs-navy.md).
 
 ## Leon's First Appearance
 
