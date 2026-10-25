@@ -40,11 +40,13 @@ She fights powerful opponents because defeating them contributes to the extraord
 
 She does not deliberately organize a political campaign, pursue demi-humans as a group, or attempt to alter the international political balance.
 
+Her immediate intervention in the final confrontation also follows the discovery of Salore's death and her intense grief and rage. Reputation-seeking explains much of her earlier activity, but it should not erase that immediate personal trigger. Aidos, one of the fighters opposing her, dies from Tarlylox during the battle rather than being killed by her. The sequence is documented in [Glyph vs the Grand Navy](./glyph-vs-navy.md#francescas-arrival-and-response-to-salores-death).
+
 Nevertheless, the deaths of these exceptionally powerful individuals significantly affect the world's balance of power.
 
 Some of the deceased combatants had represented major potential obstacles to military aggression.
 
-Among those killed is an anti-demi-human G-rank individual associated with the World Government's leadership.
+Among those killed is [Baku](../other-characters/baku.md), an anti-demi-human G-rank member of the World Government's governing board.
 
 This death contributes to a change in the balance of political power within the World Government, producing a pro-demi-human majority.
 
@@ -447,3 +449,5 @@ His admiration and infatuation with Francesca make the opportunity seem extraord
 Together, these factors strengthen his determination to continue even when the reality of his actions initially horrifies him.
 
 As Leon repeatedly encounters similar violence, he gradually becomes desensitized to it.
+
+
