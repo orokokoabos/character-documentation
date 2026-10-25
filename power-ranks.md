@@ -3,6 +3,8 @@
 ## How rankings emerged
 In the Southwest part of the world, the Kingdom of Tarmi had a dungeon and monster issue, so they developed the Guild System, where you slay monsters and defeat dungeons for money, bringing in people around the world. It was very famous. And it was only a thing in Tarmi and it's surrounding territory. To show or rank how strong a slayer / guild member was, they used ranks to divide them. This tradition was used only for these guild systems, however they got very famous, and many people around the world liked the idea, and people started using it as a ranking / status thing around the world. It is not official everywhere though. In some places they might treat it as official and very important, some places might not care, some might have it just for fun. In the current setting's story, the Guild System still exists, and is popular, people travel from around the world to come to Tarmi to participate and potentially make money in it. But it is not a thing established worldwide, just the tradition of it / culture of it is well known, so it's real in the guild system, but worldwide, it's more of a culture thing. 
 
+The Guild System that invented this: [Guild System](./world-powers/organizations-and-entities/guild-organization.md)
+
 ## Ranks
 
 ### F Rank
