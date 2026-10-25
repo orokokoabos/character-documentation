@@ -31,12 +31,11 @@ Remember this does not include all the arcs, only arcs relevant around Francesca
 
 [Edward's Arc](./edwards-arc.md),
 
-[Calm Before The Storm](./calm-before-the-storm.md),
-
 [Francesca vs Assassin Syndicate (Francesca's Admiral Arc)](francesca-vs-assassin-syndicate.md)
 
 [Glyph vs The Grand Navy](./glyph-vs-navy.md),
 
 [Post G Rank FFA](./post-g-rank-free-for-all.md),
 
+[Calm Before The Storm](./calm-before-the-storm.md),
 [Biological Weapon Blueprint](./leon-blueprint-pursuit-and-shipwreck.md)
