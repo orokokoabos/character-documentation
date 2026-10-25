@@ -24,7 +24,7 @@ G Rank Ability
 
 ## ~20
 
-Francesca receives the [Eyes of Epiphany](../Arms%2C%20Equipment%20%26%20Abilities/eyes-of-epiphany.md) from the Grand Navy. Explained why the Grand Navy gives her this in the Eyes of Epiphany file.
+Francesca receives the [Eyes of Epiphany](../Arms%2C%20Equipment%20%26%20Abilities/eyes-of-epiphany.md) from the Grand Navy. Explained why the Grand Navy gives her this in the Eyes of Epiphany file. The Eyes also make her realize / discover that, magic is not innate / stored inside living creatures on Earth, contrary to what everybody believes, like oh magic is inside us, NO she discovers that is actually wrong using the eyes. About the magic system: [Magic System](../Arms%2C%20Equipment%20%26%20Abilities/magic/magic-system.md)
 
 Francesca becomes an Admiral [Francesca vs Assassin Syndicate Arc](../arcs/francesca-vs-assassin-syndicate.md).
 
