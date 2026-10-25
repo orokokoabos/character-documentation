@@ -36,3 +36,7 @@ The guild system is important to the communities it serves, but it is only one o
 ## Power Ranking
 
 The Guild System is most famous for inventing the [Power Ranking/Rating System](../../power-ranks.md) that is recognized world wide.
+
+## Other
+
+There are many guilds and adventurers travelling across the world to come participate, they are mostly popular and famous (if you're good or high ranking in the guild system, or part of a powerful guild) inside the south west area continent. They aren't really that famous like celebrities world wide, but in the south west continent it's a pretty big flex.
