@@ -358,6 +358,22 @@ This shift helps explain the World Government's later official pro-demi-human po
 
 The broader consequences of Francesca's victories also create an opportunity for Leon to organize his movement. Those later developments are separate from Francesca's immediate reasons for fighting here.
 
+### The Navy's Defeat and Effective Collapse
+
+Horus's death does not immediately end the war. However, it removes the Fleet Admiral who had unified the four Admirals and their forces at a time when the Grand Navy is already losing badly.
+
+The loss severely damages morale. Over the following months, the absence of unified command, continuing military defeats, and growing internal divisions progressively undermine the institution.
+
+Some personnel quit or desert. Some surviving divisions compete for control, and individuals attempt to secure the position of the next Fleet Admiral. Others continue fighting, are killed, or are captured and imprisoned.
+
+These developments do not follow a single coordinated decision. Different parts of the Navy respond differently as its leadership and cohesion deteriorate.
+
+The Grand Navy ultimately loses the war. It is not formally dissolved, but within the following months it effectively ceases to function as a unified worldwide institution.
+
+Thousands upon thousands of surviving personnel, deserters, and fragmented divisions remain scattered across different regions. Some continue competing for authority, while others abandon the conflict and flee.
+
+Horus's death is therefore a major contributing event in the Navy's fall, rather than an instantaneous end to the organization. The collapse develops through the interaction of lost leadership, deteriorating morale, internal struggles, and an already disastrous military situation.
+
 ### Remaining Documentation
 
 The omitted protagonists, sub-arcs, military campaigns, and final resolution of the wider war should not be inferred from the limited selection recorded here.
