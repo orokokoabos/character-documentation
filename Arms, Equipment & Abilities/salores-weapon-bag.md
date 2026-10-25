@@ -235,7 +235,7 @@ A **small silver bell** that briefly makes **anyone who hears it lose their trai
 
 A **non-electronic megaphone** with **physical delay-setting knobs**. When the user speaks into it, their words are **completely inaudible at the time of speaking**. At the chosen delay—even a precise setting such as **45 minutes, 50 seconds**—the original speech plays **from the exact place where it was spoken**, regardless of where the user or megaphone has moved. It is a timed, location-anchored sound effect, not a prediction device. Maximum delay, recording capacity, and playback volume are undecided.
 
-**Francesca's “Checkmate”:** After Salore dies in the **G-Rank Free For All**, Francesca takes the bag, finds this megaphone during the continuing battle, sets its delay, and silently records **“Checkmate.”** She then fights for several dozen more minutes. At the calculated final moment, she kills the last remaining enemy G-rank combatant **from a distance with the unstoppable sniper rifle**, at the **same location where she originally spoke**. The delayed word plays at precisely that moment, becoming the opponent's final audible declaration.
+**Francesca's “Checkmate”:** After Salore dies in the **G-Rank Free For All**, Francesca takes the bag, finds this megaphone during the continuing battle, sets its delay, and silently records **“Checkmate.”** She then fights for several dozen more minutes. At the calculated final moment, she kills **[Baku](../other-characters/baku.md)**, the last remaining enemy G-rank combatant, **from a distance with the unstoppable sniper rifle**, at the **same location where she originally spoke**. The delayed word plays at precisely that moment, becoming the opponent's final audible declaration.
 
 ### 18. Infinite Vegetation Spray Bottle
 
@@ -273,6 +273,11 @@ The weapon is **not universally intangible**. **Soul-less material such as armor
 
 ## Francesca's significance
 
+The event sequence is documented in [Glyph vs the Grand Navy — The G-Rank Free For All](../arcs/glyph-vs-navy.md#the-g-rank-free-for-all). Aidos dies from Tarlylox during that battle; his death is not a killing blow by Francesca. Her use of this arsenal is a major condition of her victory: without it, she would probably lose the otherwise close confrontation.
+
+
 The bag matters directly to Francesca because she **takes it from Salore's body before the G-Rank Free For All has ended** and uses its weapons against surviving G-rank opponents. Most notably, she combines the **sniper rifle**, **delayed-voice megaphone**, and her own **high-speed local calculations** to time the final opponent's death with the playback of **“Checkmate.”** The megaphone does not predict the future; her brain supplies the calculation. She retains the bag afterward without routinely carrying it into later fights.
 
 The bag also places Francesca in contact with the goose, **the only known individual to understand her genuine psychology**. It reaches that understanding in about **two days**, partly by exchanging food or favors for answers to targeted questions. Francesca knows she has been understood but tolerates the goose because it has **no motivation to expose her** and would rather protect the work of centuries.
+
+
